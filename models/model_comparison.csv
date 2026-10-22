@@ -1,0 +1,5 @@
+Model,MAE,RMSE
+Seasonal Baseline,211.42,253.74
+Random Forest,282.06,344.37
+Growth-Adjusted Forecast,505.2,645.82
+Residual Random Forest,584.05,625.49

@@ -1,0 +1,4 @@
+Model,MAE,RMSE,Months Tested,Predictions
+Seasonal Baseline,1069.95,1482.53,8,208
+Random Forest,1143.47,2575.96,8,208
+Previous Month,7735.16,12606.31,8,208

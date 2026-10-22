@@ -1,0 +1,703 @@
+Month,Category,Sub Category,Units_Sold,Revenue,Transaction_Lines
+2023-01,Children,Accessories,2345,78423.1,2155
+2023-01,Children,Baby (0-12 months),2346,130554.0,2140
+2023-01,Children,Coats,8286,555137.89,7523
+2023-01,Children,"Girl and Boy (1-5 years, 6-14 years)",2451,196881.35,2252
+2023-01,Children,Pajamas,2365,135381.1,2161
+2023-01,Children,Sweaters,8123,388919.05,7374
+2023-01,Feminine,Accessories,3470,108963.25,3168
+2023-01,Feminine,Coats and Blazers,12775,1193393.21,11540
+2023-01,Feminine,Dresses and Jumpsuits,7344,772273.6,6639
+2023-01,Feminine,Lingerie and Pajamas,3626,186969.55,3306
+2023-01,Feminine,Pants and Jeans,7151,796408.75,6506
+2023-01,Feminine,Shirts and Blouses,7151,472117.4,6501
+2023-01,Feminine,Skirts and Shorts,7031,364128.05,6385
+2023-01,Feminine,Sportswear,7133,545612.15,6499
+2023-01,Feminine,Suits and Sets,7198,1236647.85,6583
+2023-01,Feminine,Sweaters and Knitwear,13056,779017.1799999999,11869
+2023-01,Feminine,T-shirts and Tops,7114,342797.2,6495
+2023-01,Masculine,Accessories,3646,124000.45,3316
+2023-01,Masculine,Coats and Blazers,12761,1299937.9,11607
+2023-01,Masculine,Pants and Jeans,7299,895433.65,6600
+2023-01,Masculine,Shirts,7334,433857.45,6668
+2023-01,Masculine,Sportswear,7258,645629.35,6572
+2023-01,Masculine,Suits and Blazers,7258,1496943.75,6621
+2023-01,Masculine,Sweaters and Sweatshirts,13391,885480.92,12191
+2023-01,Masculine,T-shirts and Polos,7166,525907.05,6552
+2023-01,Masculine,Underwear and Pajamas,3601,202724.45,3280
+2023-02,Children,Accessories,2100,73707.4,1879
+2023-02,Children,Baby (0-12 months),2094,111028.25,1891
+2023-02,Children,Coats,2065,228900.7,1882
+2023-02,Children,"Girl and Boy (1-5 years, 6-14 years)",2138,176431.8,1945
+2023-02,Children,Pajamas,2120,129431.65,1917
+2023-02,Children,Sweaters,2145,163536.0,1957
+2023-02,Feminine,Accessories,2996,102486.1,2716
+2023-02,Feminine,Coats and Blazers,5961,772963.55,5447
+2023-02,Feminine,Dresses and Jumpsuits,6270,678276.1,5674
+2023-02,Feminine,Lingerie and Pajamas,3000,175673.9,2722
+2023-02,Feminine,Pants and Jeans,6163,782097.8,5594
+2023-02,Feminine,Shirts and Blouses,6083,423657.05,5507
+2023-02,Feminine,Skirts and Shorts,6262,324965.1,5696
+2023-02,Feminine,Sportswear,6123,482433.0,5534
+2023-02,Feminine,Suits and Sets,6052,1119717.4,5537
+2023-02,Feminine,Sweaters and Knitwear,6164,501931.5,5616
+2023-02,Feminine,T-shirts and Tops,6185,305679.6,5553
+2023-02,Masculine,Accessories,3089,102040.4,2804
+2023-02,Masculine,Coats and Blazers,6318,936001.55,5741
+2023-02,Masculine,Pants and Jeans,6435,854920.75,5826
+2023-02,Masculine,Shirts,6409,409138.5,5857
+2023-02,Masculine,Sportswear,6187,588772.4,5655
+2023-02,Masculine,Suits and Blazers,6274,1314992.8,5712
+2023-02,Masculine,Sweaters and Sweatshirts,6304,611282.75,5740
+2023-02,Masculine,T-shirts and Polos,6131,479332.55,5630
+2023-02,Masculine,Underwear and Pajamas,3124,195208.4,2847
+2023-03,Children,Accessories,3319,163268.0,3019
+2023-03,Children,Baby (0-12 months),3398,267213.0,3079
+2023-03,Children,Coats,3232,493464.0,2940
+2023-03,Children,"Girl and Boy (1-5 years, 6-14 years)",27550,2246642.79,25009
+2023-03,Children,Pajamas,3399,293187.0,3067
+2023-03,Children,Sweaters,3310,364966.0,3003
+2023-03,Feminine,Accessories,5068,235134.5,4596
+2023-03,Feminine,Coats and Blazers,10195,1786866.0,9242
+2023-03,Feminine,Dresses and Jumpsuits,22175,2561128.15,20128
+2023-03,Feminine,Lingerie and Pajamas,5107,410222.0,4677
+2023-03,Feminine,Pants and Jeans,10135,1795648.0,9219
+2023-03,Feminine,Shirts and Blouses,22147,1702518.26,20094
+2023-03,Feminine,Skirts and Shorts,10005,751336.5,9070
+2023-03,Feminine,Sportswear,9981,1194349.0,9057
+2023-03,Feminine,Suits and Sets,10070,2511505.5,9185
+2023-03,Feminine,Sweaters and Knitwear,10172,1184554.5,9315
+2023-03,Feminine,T-shirts and Tops,9906,707120.0,9101
+2023-03,Masculine,Accessories,5030,243581.0,4551
+2023-03,Masculine,Coats and Blazers,10322,2076878.5,9321
+2023-03,Masculine,Pants and Jeans,10239,1919605.5,9333
+2023-03,Masculine,Shirts,22329,1379369.62,20229
+2023-03,Masculine,Sportswear,9924,1343796.5,8998
+2023-03,Masculine,Suits and Blazers,10216,3012299.5,9265
+2023-03,Masculine,Sweaters and Sweatshirts,10080,1316435.0,9203
+2023-03,Masculine,T-shirts and Polos,22362,1667264.76,20315
+2023-03,Masculine,Underwear and Pajamas,5154,426068.0,4667
+2023-04,Children,Accessories,3254,141465.0,2941
+2023-04,Children,Baby (0-12 months),3175,239799.0,2876
+2023-04,Children,Coats,3308,454378.0,2993
+2023-04,Children,"Girl and Boy (1-5 years, 6-14 years)",3263,386013.0,2956
+2023-04,Children,Pajamas,3293,255126.0,3008
+2023-04,Children,Sweaters,3219,335203.0,2929
+2023-04,Feminine,Accessories,4715,195174.5,4278
+2023-04,Feminine,Coats and Blazers,9892,1676072.0,8958
+2023-04,Feminine,Dresses and Jumpsuits,9780,1399696.0,8846
+2023-04,Feminine,Lingerie and Pajamas,4847,378283.0,4406
+2023-04,Feminine,Pants and Jeans,9581,1515659.5,8758
+2023-04,Feminine,Shirts and Blouses,9833,959242.0,8954
+2023-04,Feminine,Skirts and Shorts,9612,708201.5,8764
+2023-04,Feminine,Sportswear,9721,1058561.0,8900
+2023-04,Feminine,Suits and Sets,9772,2272036.0,8879
+2023-04,Feminine,Sweaters and Knitwear,9788,1072994.5,8862
+2023-04,Feminine,T-shirts and Tops,9870,674829.5,8960
+2023-04,Masculine,Accessories,4970,221277.0,4476
+2023-04,Masculine,Coats and Blazers,9676,1802361.5,8777
+2023-04,Masculine,Pants and Jeans,9644,1727538.0,8738
+2023-04,Masculine,Shirts,9850,792370.5,8917
+2023-04,Masculine,Sportswear,9741,1237971.0,8828
+2023-04,Masculine,Suits and Blazers,9876,2657712.0,8959
+2023-04,Masculine,Sweaters and Sweatshirts,9764,1229568.0,8869
+2023-04,Masculine,T-shirts and Polos,9783,981731.0,8872
+2023-04,Masculine,Underwear and Pajamas,4930,380183.0,4446
+2023-05,Children,Accessories,8769,333981.77,7931
+2023-05,Children,Baby (0-12 months),2717,201629.5,2463
+2023-05,Children,Coats,2853,400280.0,2568
+2023-05,Children,"Girl and Boy (1-5 years, 6-14 years)",8722,834402.03,7980
+2023-05,Children,Pajamas,8765,554049.22,7958
+2023-05,Children,Sweaters,2898,315694.5,2622
+2023-05,Feminine,Accessories,4275,177643.0,3869
+2023-05,Feminine,Coats and Blazers,8377,1419870.0,7697
+2023-05,Feminine,Dresses and Jumpsuits,14432,1827716.82,13171
+2023-05,Feminine,Lingerie and Pajamas,4300,340650.0,3907
+2023-05,Feminine,Pants and Jeans,8376,1379117.0,7655
+2023-05,Feminine,Shirts and Blouses,8449,817976.5,7679
+2023-05,Feminine,Skirts and Shorts,14485,906003.57,13152
+2023-05,Feminine,Sportswear,8553,953784.5,7749
+2023-05,Feminine,Suits and Sets,8308,2060269.0,7615
+2023-05,Feminine,Sweaters and Knitwear,8321,914383.5,7573
+2023-05,Feminine,T-shirts and Tops,14480,854993.74,13203
+2023-05,Masculine,Accessories,4145,184096.0,3780
+2023-05,Masculine,Coats and Blazers,8499,1587512.0,7708
+2023-05,Masculine,Pants and Jeans,17477,2468418.83,15861
+2023-05,Masculine,Shirts,8423,724953.5,7640
+2023-05,Masculine,Sportswear,8169,1076073.5,7495
+2023-05,Masculine,Suits and Blazers,8383,2329171.0,7595
+2023-05,Masculine,Sweaters and Sweatshirts,8409,1105507.5,7629
+2023-05,Masculine,T-shirts and Polos,17145,1336610.77,15590
+2023-05,Masculine,Underwear and Pajamas,4209,323219.0,3830
+2023-06,Children,Accessories,2289,117661.0,2055
+2023-06,Children,Baby (0-12 months),2399,219586.5,2171
+2023-06,Children,Coats,2304,361879.5,2102
+2023-06,Children,"Girl and Boy (1-5 years, 6-14 years)",2249,296586.5,2039
+2023-06,Children,Pajamas,2243,183861.0,2049
+2023-06,Children,Sweaters,2274,258150.0,2088
+2023-06,Feminine,Accessories,3434,158973.0,3128
+2023-06,Feminine,Coats and Blazers,6884,1308508.5,6277
+2023-06,Feminine,Dresses and Jumpsuits,7063,1107824.0,6386
+2023-06,Feminine,Lingerie and Pajamas,3388,303612.5,3065
+2023-06,Feminine,Pants and Jeans,7009,1256928.5,6352
+2023-06,Feminine,Shirts and Blouses,6867,729148.0,6238
+2023-06,Feminine,Skirts and Shorts,6950,562280.5,6321
+2023-06,Feminine,Sportswear,6762,831208.5,6147
+2023-06,Feminine,Suits and Sets,6955,1870883.5,6325
+2023-06,Feminine,Sweaters and Knitwear,6824,827837.0,6255
+2023-06,Feminine,T-shirts and Tops,7021,522900.0,6390
+2023-06,Masculine,Accessories,3460,175061.0,3135
+2023-06,Masculine,Coats and Blazers,6824,1434409.5,6273
+2023-06,Masculine,Pants and Jeans,6850,1308092.0,6238
+2023-06,Masculine,Shirts,6773,625996.0,6206
+2023-06,Masculine,Sportswear,6860,955764.5,6243
+2023-06,Masculine,Suits and Blazers,6932,2134031.0,6290
+2023-06,Masculine,Sweaters and Sweatshirts,6820,962383.0,6242
+2023-06,Masculine,T-shirts and Polos,6741,756516.0,6173
+2023-06,Masculine,Underwear and Pajamas,3477,294014.5,3160
+2023-07,Children,Accessories,2546,108072.55,2321
+2023-07,Children,Baby (0-12 months),2643,189576.55,2400
+2023-07,Children,Coats,2533,326545.3,2290
+2023-07,Children,"Girl and Boy (1-5 years, 6-14 years)",2610,272053.65,2378
+2023-07,Children,Pajamas,2532,180817.45,2293
+2023-07,Children,Sweaters,2545,248807.05,2294
+2023-07,Feminine,Accessories,3860,149879.95,3528
+2023-07,Feminine,Coats and Blazers,7628,1222799.2,6961
+2023-07,Feminine,Dresses and Jumpsuits,7438,1003019.3,6739
+2023-07,Feminine,Lingerie and Pajamas,3814,285359.6,3475
+2023-07,Feminine,Pants and Jeans,7758,1175618.9,7025
+2023-07,Feminine,Shirts and Blouses,7740,685483.9,7024
+2023-07,Feminine,Skirts and Shorts,7647,509932.1,6942
+2023-07,Feminine,Sportswear,7521,767787.95,6880
+2023-07,Feminine,Suits and Sets,7662,1698825.25,6961
+2023-07,Feminine,Sweaters and Knitwear,7581,762905.5,6904
+2023-07,Feminine,T-shirts and Tops,7695,488888.2,6994
+2023-07,Masculine,Accessories,3831,154080.5,3456
+2023-07,Masculine,Coats and Blazers,7721,1311863.55,6996
+2023-07,Masculine,Pants and Jeans,7786,1293381.0,7061
+2023-07,Masculine,Shirts,7792,596820.55,7091
+2023-07,Masculine,Sportswear,7847,932142.4,7152
+2023-07,Masculine,Suits and Blazers,7740,1970577.9,7014
+2023-07,Masculine,Sweaters and Sweatshirts,7773,895289.2,7080
+2023-07,Masculine,T-shirts and Polos,7779,711372.2,7089
+2023-07,Masculine,Underwear and Pajamas,3874,277621.35,3518
+2023-08,Children,Accessories,2212,103114.4,2039
+2023-08,Children,Baby (0-12 months),2284,169545.45,2084
+2023-08,Children,Coats,2208,295316.0,2010
+2023-08,Children,"Girl and Boy (1-5 years, 6-14 years)",2152,256476.6,1961
+2023-08,Children,Pajamas,2124,163832.1,1944
+2023-08,Children,Sweaters,2180,226413.7,1970
+2023-08,Feminine,Accessories,3248,141113.95,2950
+2023-08,Feminine,Coats and Blazers,6676,1125628.4,6039
+2023-08,Feminine,Dresses and Jumpsuits,6604,969759.05,6043
+2023-08,Feminine,Lingerie and Pajamas,3339,268870.2,3051
+2023-08,Feminine,Pants and Jeans,6743,1114928.25,6077
+2023-08,Feminine,Shirts and Blouses,6744,647343.9,6138
+2023-08,Feminine,Skirts and Shorts,6647,480529.7,6017
+2023-08,Feminine,Sportswear,6644,733094.8,6093
+2023-08,Feminine,Suits and Sets,6811,1598155.65,6186
+2023-08,Feminine,Sweaters and Knitwear,6681,723846.45,6053
+2023-08,Feminine,T-shirts and Tops,6670,462471.65,6051
+2023-08,Masculine,Accessories,3315,149191.95,3023
+2023-08,Masculine,Coats and Blazers,6725,1208112.15,6142
+2023-08,Masculine,Pants and Jeans,6795,1192680.05,6201
+2023-08,Masculine,Shirts,6651,553448.15,6063
+2023-08,Masculine,Sportswear,6682,851080.45,6108
+2023-08,Masculine,Suits and Blazers,6693,1860500.5,6112
+2023-08,Masculine,Sweaters and Sweatshirts,6754,854146.2,6139
+2023-08,Masculine,T-shirts and Polos,6783,683790.25,6165
+2023-08,Masculine,Underwear and Pajamas,3349,265388.05,3044
+2023-09,Children,Accessories,4033,185505.0,3644
+2023-09,Children,Baby (0-12 months),3984,330440.5,3635
+2023-09,Children,Coats,17247,1556307.43,15633
+2023-09,Children,"Girl and Boy (1-5 years, 6-14 years)",17440,1299584.86,15865
+2023-09,Children,Pajamas,3938,322038.0,3604
+2023-09,Children,Sweaters,3985,431242.0,3591
+2023-09,Feminine,Accessories,6090,275558.5,5580
+2023-09,Feminine,Coats and Blazers,12183,2199355.5,11071
+2023-09,Feminine,Dresses and Jumpsuits,20943,2123969.63,19038
+2023-09,Feminine,Lingerie and Pajamas,6039,471013.5,5516
+2023-09,Feminine,Pants and Jeans,11982,1925672.5,10904
+2023-09,Feminine,Shirts and Blouses,20978,1463409.67,19059
+2023-09,Feminine,Skirts and Shorts,21135,1088514.71,19235
+2023-09,Feminine,Sportswear,11900,1333373.0,10845
+2023-09,Feminine,Suits and Sets,12090,3080170.5,10981
+2023-09,Feminine,Sweaters and Knitwear,12043,1381539.0,10966
+2023-09,Feminine,T-shirts and Tops,12088,796860.5,10988
+2023-09,Masculine,Accessories,6154,269310.0,5591
+2023-09,Masculine,Coats and Blazers,12267,2609599.5,11132
+2023-09,Masculine,Pants and Jeans,25702,3040381.62,23385
+2023-09,Masculine,Shirts,25503,1376976.58,23204
+2023-09,Masculine,Sportswear,12102,1597225.0,11015
+2023-09,Masculine,Suits and Blazers,12203,3581572.0,11061
+2023-09,Masculine,Sweaters and Sweatshirts,12256,1572318.5,11128
+2023-09,Masculine,T-shirts and Polos,12162,1310742.5,10941
+2023-09,Masculine,Underwear and Pajamas,6090,505124.5,5536
+2023-10,Children,Accessories,12803,567825.1,11609
+2023-10,Children,Baby (0-12 months),3815,328533.5,3452
+2023-10,Children,Coats,3775,601324.5,3463
+2023-10,Children,"Girl and Boy (1-5 years, 6-14 years)",3957,520480.0,3586
+2023-10,Children,Pajamas,3884,318761.5,3566
+2023-10,Children,Sweaters,12796,1294369.2,11670
+2023-10,Feminine,Accessories,5773,282081.5,5256
+2023-10,Feminine,Coats and Blazers,11731,2202644.0,10663
+2023-10,Feminine,Dresses and Jumpsuits,11601,1809840.5,10536
+2023-10,Feminine,Lingerie and Pajamas,5807,496797.5,5304
+2023-10,Feminine,Pants and Jeans,11484,2015814.0,10441
+2023-10,Feminine,Shirts and Blouses,11542,1236169.5,10496
+2023-10,Feminine,Skirts and Shorts,11635,922022.5,10544
+2023-10,Feminine,Sportswear,20529,2289344.0,18611
+2023-10,Feminine,Suits and Sets,11558,3062989.0,10531
+2023-10,Feminine,Sweaters and Knitwear,20551,2340457.8,18661
+2023-10,Feminine,T-shirts and Tops,11597,809460.0,10513
+2023-10,Masculine,Accessories,5859,275025.5,5319
+2023-10,Masculine,Coats and Blazers,11749,2645912.5,10615
+2023-10,Masculine,Pants and Jeans,11640,2341979.5,10543
+2023-10,Masculine,Shirts,11818,1082475.5,10743
+2023-10,Masculine,Sportswear,20565,2541662.8000000003,18681
+2023-10,Masculine,Suits and Blazers,11767,3620663.5,10700
+2023-10,Masculine,Sweaters and Sweatshirts,20458,2463094.0,18613
+2023-10,Masculine,T-shirts and Polos,11488,1389816.5,10440
+2023-10,Masculine,Underwear and Pajamas,5800,524363.0,5323
+2023-11,Children,Accessories,3402,139640.0,3095
+2023-11,Children,Baby (0-12 months),3320,233813.1,3025
+2023-11,Children,Coats,3290,455149.5,3003
+2023-11,Children,"Girl and Boy (1-5 years, 6-14 years)",3314,372959.4,3020
+2023-11,Children,Pajamas,3493,247935.69999999998,3187
+2023-11,Children,Sweaters,3320,310292.6,3019
+2023-11,Feminine,Accessories,5171,215290.7,4702
+2023-11,Feminine,Coats and Blazers,10405,1697872.9,9470
+2023-11,Feminine,Dresses and Jumpsuits,10410,1382448.2,9426
+2023-11,Feminine,Lingerie and Pajamas,5006,351427.8,4526
+2023-11,Feminine,Pants and Jeans,10119,1474421.1,9183
+2023-11,Feminine,Shirts and Blouses,10147,961778.2,9229
+2023-11,Feminine,Skirts and Shorts,10239,668129.9,9295
+2023-11,Feminine,Sportswear,10002,1032191.2,9086
+2023-11,Feminine,Suits and Sets,10255,2321395.9,9254
+2023-11,Feminine,Sweaters and Knitwear,10286,1070015.8,9329
+2023-11,Feminine,T-shirts and Tops,10235,602701.1,9317
+2023-11,Masculine,Accessories,5067,197957.1,4623
+2023-11,Masculine,Coats and Blazers,10283,1996508.5,9319
+2023-11,Masculine,Pants and Jeans,10586,1769499.1,9536
+2023-11,Masculine,Shirts,10276,809179.3,9346
+2023-11,Masculine,Sportswear,10220,1200199.0999999999,9321
+2023-11,Masculine,Suits and Blazers,10246,2671145.3,9351
+2023-11,Masculine,Sweaters and Sweatshirts,10414,1217170.9,9449
+2023-11,Masculine,T-shirts and Polos,10299,1038478.0,9401
+2023-11,Masculine,Underwear and Pajamas,5256,390489.8,4759
+2023-12,Children,Accessories,11545,345825.25,10499
+2023-12,Children,Baby (0-12 months),11440,586691.5,10388
+2023-12,Children,Coats,11292,1083390.0,10303
+2023-12,Children,"Girl and Boy (1-5 years, 6-14 years)",11369,915723.0,10398
+2023-12,Children,Pajamas,11583,591239.75,10500
+2023-12,Children,Sweaters,11535,807008.75,10495
+2023-12,Feminine,Accessories,17436,516224.0,15850
+2023-12,Feminine,Coats and Blazers,34881,3956854.5,31697
+2023-12,Feminine,Dresses and Jumpsuits,34710,3360724.0,31557
+2023-12,Feminine,Lingerie and Pajamas,17546,903901.0,15880
+2023-12,Feminine,Pants and Jeans,34733,3569042.25,31660
+2023-12,Feminine,Shirts and Blouses,34997,2282578.5,31768
+2023-12,Feminine,Skirts and Shorts,34957,1692048.75,31824
+2023-12,Feminine,Sportswear,34864,2492856.5,31653
+2023-12,Feminine,Suits and Sets,34816,5677819.75,31594
+2023-12,Feminine,Sweaters and Knitwear,34438,2556314.5,31211
+2023-12,Feminine,T-shirts and Tops,34228,1453399.75,31230
+2023-12,Masculine,Accessories,17206,493320.75,15700
+2023-12,Masculine,Coats and Blazers,34460,4787346.75,31280
+2023-12,Masculine,Pants and Jeans,34856,4263950.5,31586
+2023-12,Masculine,Shirts,34438,1932376.5,31378
+2023-12,Masculine,Sportswear,34826,2975943.5,31590
+2023-12,Masculine,Suits and Blazers,34661,6519313.25,31474
+2023-12,Masculine,Sweaters and Sweatshirts,34914,2994201.75,31705
+2023-12,Masculine,T-shirts and Polos,34842,2484509.5,31735
+2023-12,Masculine,Underwear and Pajamas,16935,883273.75,15446
+2024-01,Children,Accessories,2534,96631.6,2303
+2024-01,Children,Baby (0-12 months),2518,162263.15,2277
+2024-01,Children,Coats,7944,632449.71,7205
+2024-01,Children,"Girl and Boy (1-5 years, 6-14 years)",2563,255243.25,2319
+2024-01,Children,Pajamas,2596,157788.25,2335
+2024-01,Children,Sweaters,7908,458990.04,7201
+2024-01,Feminine,Accessories,3847,146505.95,3541
+2024-01,Feminine,Coats and Blazers,12912,1418595.46,11795
+2024-01,Feminine,Dresses and Jumpsuits,7452,874723.65,6800
+2024-01,Feminine,Lingerie and Pajamas,3788,237239.8,3434
+2024-01,Feminine,Pants and Jeans,7663,981797.3,6899
+2024-01,Feminine,Shirts and Blouses,7571,618087.25,6911
+2024-01,Feminine,Skirts and Shorts,7738,464482.45,7047
+2024-01,Feminine,Sportswear,7392,659716.4,6761
+2024-01,Feminine,Suits and Sets,7591,1550935.3,6941
+2024-01,Feminine,Sweaters and Knitwear,12864,899306.04,11687
+2024-01,Feminine,T-shirts and Tops,7564,398804.25,6865
+2024-01,Masculine,Accessories,3927,136754.8,3551
+2024-01,Masculine,Coats and Blazers,13442,1646706.77,12181
+2024-01,Masculine,Pants and Jeans,7838,1162295.55,7117
+2024-01,Masculine,Shirts,7746,519145.0,7033
+2024-01,Masculine,Sportswear,7931,822061.5,7156
+2024-01,Masculine,Suits and Blazers,7886,1819801.75,7124
+2024-01,Masculine,Sweaters and Sweatshirts,13379,1027644.12,12092
+2024-01,Masculine,T-shirts and Polos,7771,676205.3,6979
+2024-01,Masculine,Underwear and Pajamas,3796,242156.75,3482
+2024-02,Children,Accessories,2476,96204.6,2250
+2024-02,Children,Baby (0-12 months),2491,169005.65,2274
+2024-02,Children,Coats,2521,317857.9,2275
+2024-02,Children,"Girl and Boy (1-5 years, 6-14 years)",2480,259592.75,2246
+2024-02,Children,Pajamas,2491,157849.8,2243
+2024-02,Children,Sweaters,2484,216310.85,2236
+2024-02,Feminine,Accessories,3757,142084.45,3410
+2024-02,Feminine,Coats and Blazers,7371,1113472.95,6701
+2024-02,Feminine,Dresses and Jumpsuits,7295,895892.35,6678
+2024-02,Feminine,Lingerie and Pajamas,3816,263225.9,3441
+2024-02,Feminine,Pants and Jeans,7536,1010602.7,6872
+2024-02,Feminine,Shirts and Blouses,7381,639075.35,6704
+2024-02,Feminine,Skirts and Shorts,7418,472103.6,6771
+2024-02,Feminine,Sportswear,7304,689880.65,6615
+2024-02,Feminine,Suits and Sets,7442,1550230.2,6757
+2024-02,Feminine,Sweaters and Knitwear,7217,697113.95,6578
+2024-02,Feminine,T-shirts and Tops,7387,397605.35,6751
+2024-02,Masculine,Accessories,3807,134370.05,3435
+2024-02,Masculine,Coats and Blazers,7696,1383874.0,6977
+2024-02,Masculine,Pants and Jeans,7925,1272674.8,7173
+2024-02,Masculine,Shirts,7718,559323.05,7033
+2024-02,Masculine,Sportswear,7885,849844.3,7110
+2024-02,Masculine,Suits and Blazers,7730,1892295.9,7017
+2024-02,Masculine,Sweaters and Sweatshirts,7706,852452.6,6988
+2024-02,Masculine,T-shirts and Polos,7688,709538.05,6991
+2024-02,Masculine,Underwear and Pajamas,3670,255949.4,3350
+2024-03,Children,Accessories,4047,197400.5,3635
+2024-03,Children,Baby (0-12 months),4001,353172.5,3621
+2024-03,Children,Coats,3964,600985.5,3618
+2024-03,Children,"Girl and Boy (1-5 years, 6-14 years)",34143,2835291.91,30998
+2024-03,Children,Pajamas,4031,351309.0,3674
+2024-03,Children,Sweaters,3895,434102.0,3567
+2024-03,Feminine,Accessories,6084,302786.0,5552
+2024-03,Feminine,Coats and Blazers,12111,2084556.5,10941
+2024-03,Feminine,Dresses and Jumpsuits,26728,3075262.32,24361
+2024-03,Feminine,Lingerie and Pajamas,6019,499982.5,5436
+2024-03,Feminine,Pants and Jeans,12176,1991553.5,11006
+2024-03,Feminine,Shirts and Blouses,26874,2018881.75,24510
+2024-03,Feminine,Skirts and Shorts,12072,934245.5,10932
+2024-03,Feminine,Sportswear,12148,1421050.0,10997
+2024-03,Feminine,Suits and Sets,12031,3050451.5,10997
+2024-03,Feminine,Sweaters and Knitwear,11991,1417396.5,10897
+2024-03,Feminine,T-shirts and Tops,11930,817761.5,10852
+2024-03,Masculine,Accessories,5960,277247.5,5400
+2024-03,Masculine,Coats and Blazers,11903,2537849.0,10831
+2024-03,Masculine,Pants and Jeans,11797,2220574.5,10755
+2024-03,Masculine,Shirts,26813,1649624.38,24429
+2024-03,Masculine,Sportswear,12111,1700270.0,10996
+2024-03,Masculine,Suits and Blazers,12005,3606036.0,10876
+2024-03,Masculine,Sweaters and Sweatshirts,12028,1657183.0,10925
+2024-03,Masculine,T-shirts and Polos,27149,2049766.8599999999,24581
+2024-03,Masculine,Underwear and Pajamas,5993,508512.0,5409
+2024-04,Children,Accessories,3449,189699.0,3158
+2024-04,Children,Baby (0-12 months),3398,316581.5,3132
+2024-04,Children,Coats,3466,608694.5,3136
+2024-04,Children,"Girl and Boy (1-5 years, 6-14 years)",3555,513621.0,3245
+2024-04,Children,Pajamas,3563,350865.0,3226
+2024-04,Children,Sweaters,3607,447805.5,3251
+2024-04,Feminine,Accessories,5303,296458.5,4833
+2024-04,Feminine,Coats and Blazers,10362,1983241.5,9522
+2024-04,Feminine,Dresses and Jumpsuits,10467,1859815.0,9510
+2024-04,Feminine,Lingerie and Pajamas,5407,510881.5,4911
+2024-04,Feminine,Pants and Jeans,10368,2001769.0,9419
+2024-04,Feminine,Shirts and Blouses,10523,1189213.5,9551
+2024-04,Feminine,Skirts and Shorts,10439,893039.0,9503
+2024-04,Feminine,Sportswear,10540,1382714.0,9583
+2024-04,Feminine,Suits and Sets,10662,3009029.5,9642
+2024-04,Feminine,Sweaters and Knitwear,10703,1434260.0,9718
+2024-04,Feminine,T-shirts and Tops,10485,832493.5,9537
+2024-04,Masculine,Accessories,5293,277353.0,4785
+2024-04,Masculine,Coats and Blazers,10755,2457981.0,9749
+2024-04,Masculine,Pants and Jeans,10826,2279124.5,9805
+2024-04,Masculine,Shirts,10694,1085512.5,9743
+2024-04,Masculine,Sportswear,10875,1734333.0,9854
+2024-04,Masculine,Suits and Blazers,10846,3605168.5,9874
+2024-04,Masculine,Sweaters and Sweatshirts,10606,1619182.0,9639
+2024-04,Masculine,T-shirts and Polos,10532,1322213.0,9573
+2024-04,Masculine,Underwear and Pajamas,5319,502105.0,4828
+2024-05,Children,Accessories,9246,365359.6,8391
+2024-05,Children,Baby (0-12 months),2961,248729.0,2726
+2024-05,Children,Coats,2956,455244.5,2686
+2024-05,Children,"Girl and Boy (1-5 years, 6-14 years)",9416,949417.73,8599
+2024-05,Children,Pajamas,9329,641771.68,8477
+2024-05,Children,Sweaters,2879,317663.5,2634
+2024-05,Feminine,Accessories,4462,219632.5,4052
+2024-05,Feminine,Coats and Blazers,8794,1502689.5,8039
+2024-05,Feminine,Dresses and Jumpsuits,15420,2085608.4100000001,14035
+2024-05,Feminine,Lingerie and Pajamas,4405,367396.0,4015
+2024-05,Feminine,Pants and Jeans,8878,1491146.5,8080
+2024-05,Feminine,Shirts and Blouses,8885,885285.5,8036
+2024-05,Feminine,Skirts and Shorts,15367,1024970.44,13986
+2024-05,Feminine,Sportswear,8925,1053358.5,8132
+2024-05,Feminine,Suits and Sets,8918,2212189.5,8115
+2024-05,Feminine,Sweaters and Knitwear,8745,1060766.0,7959
+2024-05,Feminine,T-shirts and Tops,15443,924161.9,14087
+2024-05,Masculine,Accessories,4442,204757.0,4083
+2024-05,Masculine,Coats and Blazers,8818,1876289.0,8044
+2024-05,Masculine,Pants and Jeans,18660,2756729.7800000003,16881
+2024-05,Masculine,Shirts,8781,821585.5,8039
+2024-05,Masculine,Sportswear,8716,1250393.5,7924
+2024-05,Masculine,Suits and Blazers,8999,2739366.0,8216
+2024-05,Masculine,Sweaters and Sweatshirts,8730,1217329.5,7969
+2024-05,Masculine,T-shirts and Polos,18648,1621869.59,16895
+2024-05,Masculine,Underwear and Pajamas,4528,398314.5,4114
+2024-06,Children,Accessories,2739,153483.0,2450
+2024-06,Children,Baby (0-12 months),2748,254684.5,2472
+2024-06,Children,Coats,2777,487787.0,2526
+2024-06,Children,"Girl and Boy (1-5 years, 6-14 years)",2697,381878.0,2476
+2024-06,Children,Pajamas,2781,272909.5,2539
+2024-06,Children,Sweaters,2847,357932.5,2587
+2024-06,Feminine,Accessories,3995,224790.0,3627
+2024-06,Feminine,Coats and Blazers,8090,1531580.5,7389
+2024-06,Feminine,Dresses and Jumpsuits,8189,1436229.0,7414
+2024-06,Feminine,Lingerie and Pajamas,4086,393682.5,3680
+2024-06,Feminine,Pants and Jeans,8189,1502382.0,7422
+2024-06,Feminine,Shirts and Blouses,8038,924484.5,7366
+2024-06,Feminine,Skirts and Shorts,8212,698771.5,7417
+2024-06,Feminine,Sportswear,8047,1051318.0,7355
+2024-06,Feminine,Suits and Sets,8037,2336699.0,7318
+2024-06,Feminine,Sweaters and Knitwear,8043,1061283.5,7311
+2024-06,Feminine,T-shirts and Tops,8142,631220.5,7369
+2024-06,Masculine,Accessories,4150,207304.5,3739
+2024-06,Masculine,Coats and Blazers,8164,1932574.5,7439
+2024-06,Masculine,Pants and Jeans,8099,1733550.0,7339
+2024-06,Masculine,Shirts,8121,814083.5,7387
+2024-06,Masculine,Sportswear,8226,1313116.5,7486
+2024-06,Masculine,Suits and Blazers,8343,2778846.5,7594
+2024-06,Masculine,Sweaters and Sweatshirts,8158,1273603.0,7409
+2024-06,Masculine,T-shirts and Polos,8321,1062645.0,7560
+2024-06,Masculine,Underwear and Pajamas,3976,379216.0,3635
+2024-07,Children,Accessories,2613,131930.0,2403
+2024-07,Children,Baby (0-12 months),2607,239903.55,2388
+2024-07,Children,Coats,2583,401068.3,2381
+2024-07,Children,"Girl and Boy (1-5 years, 6-14 years)",2700,340326.9,2435
+2024-07,Children,Pajamas,2725,235404.45,2491
+2024-07,Children,Sweaters,2482,271272.3,2273
+2024-07,Feminine,Accessories,3998,197609.65,3619
+2024-07,Feminine,Coats and Blazers,7784,1375972.05,7118
+2024-07,Feminine,Dresses and Jumpsuits,7840,1275038.85,7106
+2024-07,Feminine,Lingerie and Pajamas,4015,348676.6,3631
+2024-07,Feminine,Pants and Jeans,7907,1339318.15,7196
+2024-07,Feminine,Shirts and Blouses,7888,823647.45,7161
+2024-07,Feminine,Skirts and Shorts,7789,628336.0,7103
+2024-07,Feminine,Sportswear,7631,935773.95,6991
+2024-07,Feminine,Suits and Sets,7929,2044688.8,7171
+2024-07,Feminine,Sweaters and Knitwear,8031,987613.6,7306
+2024-07,Feminine,T-shirts and Tops,7756,537580.75,7074
+2024-07,Masculine,Accessories,4014,189287.05,3611
+2024-07,Masculine,Coats and Blazers,8013,1693590.55,7266
+2024-07,Masculine,Pants and Jeans,8070,1538691.25,7336
+2024-07,Masculine,Shirts,8165,741725.35,7388
+2024-07,Masculine,Sportswear,8143,1160499.65,7403
+2024-07,Masculine,Suits and Blazers,7974,2458773.85,7288
+2024-07,Masculine,Sweaters and Sweatshirts,8203,1145145.95,7371
+2024-07,Masculine,T-shirts and Polos,8256,953828.0,7444
+2024-07,Masculine,Underwear and Pajamas,4057,340007.4,3689
+2024-08,Children,Accessories,2751,138401.1,2504
+2024-08,Children,Baby (0-12 months),2743,231696.95,2483
+2024-08,Children,Coats,2694,409440.0,2464
+2024-08,Children,"Girl and Boy (1-5 years, 6-14 years)",2932,348266.65,2664
+2024-08,Children,Pajamas,2830,239856.75,2548
+2024-08,Children,Sweaters,2752,294402.3,2515
+2024-08,Feminine,Accessories,4182,208739.85,3796
+2024-08,Feminine,Coats and Blazers,8123,1342745.3,7386
+2024-08,Feminine,Dresses and Jumpsuits,8285,1272330.8,7560
+2024-08,Feminine,Lingerie and Pajamas,4175,366353.5,3784
+2024-08,Feminine,Pants and Jeans,8069,1330753.0,7340
+2024-08,Feminine,Shirts and Blouses,8067,796408.75,7391
+2024-08,Feminine,Skirts and Shorts,8252,633022.0,7531
+2024-08,Feminine,Sportswear,8190,947215.3,7431
+2024-08,Feminine,Suits and Sets,8285,2033264.8,7507
+2024-08,Feminine,Sweaters and Knitwear,8280,975958.05,7501
+2024-08,Feminine,T-shirts and Tops,8255,582304.45,7491
+2024-08,Masculine,Accessories,4172,190511.55,3844
+2024-08,Masculine,Coats and Blazers,8376,1721195.15,7594
+2024-08,Masculine,Pants and Jeans,8455,1540749.7,7668
+2024-08,Masculine,Shirts,8358,734521.75,7552
+2024-08,Masculine,Sportswear,8326,1154166.85,7537
+2024-08,Masculine,Suits and Blazers,8288,2449476.6,7571
+2024-08,Masculine,Sweaters and Sweatshirts,8345,1121202.0,7577
+2024-08,Masculine,T-shirts and Polos,8227,894148.2,7507
+2024-08,Masculine,Underwear and Pajamas,4058,334242.9,3692
+2024-09,Children,Accessories,4634,272753.0,4197
+2024-09,Children,Baby (0-12 months),4649,462479.0,4222
+2024-09,Children,Coats,20879,1979445.92,18988
+2024-09,Children,"Girl and Boy (1-5 years, 6-14 years)",20884,1727227.75,18994
+2024-09,Children,Pajamas,4606,427361.0,4224
+2024-09,Children,Sweaters,4680,553572.0,4309
+2024-09,Feminine,Accessories,7051,386766.0,6399
+2024-09,Feminine,Coats and Blazers,13798,2735496.5,12581
+2024-09,Feminine,Dresses and Jumpsuits,24212,2760536.75,22024
+2024-09,Feminine,Lingerie and Pajamas,7001,646498.0,6314
+2024-09,Feminine,Pants and Jeans,13548,2466973.5,12331
+2024-09,Feminine,Shirts and Blouses,24026,1896515.1500000001,21856
+2024-09,Feminine,Skirts and Shorts,24411,1430873.44,22063
+2024-09,Feminine,Sportswear,13627,1646213.5,12481
+2024-09,Feminine,Suits and Sets,13680,3880150.0,12350
+2024-09,Feminine,Sweaters and Knitwear,13714,1770320.5,12476
+2024-09,Feminine,T-shirts and Tops,13748,1101200.0,12469
+2024-09,Masculine,Accessories,6953,348932.0,6323
+2024-09,Masculine,Coats and Blazers,14069,3367924.0,12775
+2024-09,Masculine,Pants and Jeans,30018,3840594.46,27199
+2024-09,Masculine,Shirts,30315,1840288.3699999999,27439
+2024-09,Masculine,Sportswear,14055,2127177.5,12767
+2024-09,Masculine,Suits and Blazers,14298,4748313.0,12964
+2024-09,Masculine,Sweaters and Sweatshirts,13972,2079165.0,12792
+2024-09,Masculine,T-shirts and Polos,13880,1715917.5,12553
+2024-09,Masculine,Underwear and Pajamas,6892,633712.5,6275
+2024-10,Children,Accessories,13360,694175.9,12220
+2024-10,Children,Baby (0-12 months),4344,430580.5,3907
+2024-10,Children,Coats,4408,744462.5,4013
+2024-10,Children,"Girl and Boy (1-5 years, 6-14 years)",4245,612499.5,3869
+2024-10,Children,Pajamas,4369,415102.0,4000
+2024-10,Children,Sweaters,13509,1460787.0,12299
+2024-10,Feminine,Accessories,6570,359092.5,5938
+2024-10,Feminine,Coats and Blazers,12630,2574951.0,11505
+2024-10,Feminine,Dresses and Jumpsuits,12706,2198704.5,11557
+2024-10,Feminine,Lingerie and Pajamas,6641,609340.0,6020
+2024-10,Feminine,Pants and Jeans,12668,2361145.0,11550
+2024-10,Feminine,Shirts and Blouses,12896,1524504.0,11709
+2024-10,Feminine,Skirts and Shorts,12841,1146912.5,11695
+2024-10,Feminine,Sportswear,21908,2597095.4,19922
+2024-10,Feminine,Suits and Sets,12880,3723480.5,11669
+2024-10,Feminine,Sweaters and Knitwear,22005,2757669.1999999997,20088
+2024-10,Feminine,T-shirts and Tops,12679,1044846.5,11568
+2024-10,Masculine,Accessories,6471,347420.5,5897
+2024-10,Masculine,Coats and Blazers,12928,3150726.5,11778
+2024-10,Masculine,Pants and Jeans,13197,2718627.0,12005
+2024-10,Masculine,Shirts,13091,1297400.0,11915
+2024-10,Masculine,Sportswear,22308,3029516.6,20302
+2024-10,Masculine,Suits and Blazers,12794,4400177.0,11660
+2024-10,Masculine,Sweaters and Sweatshirts,22398,2973351.4,20331
+2024-10,Masculine,T-shirts and Polos,13250,1672564.0,12010
+2024-10,Masculine,Underwear and Pajamas,6496,611809.0,5882
+2024-11,Children,Accessories,3907,216834.9,3574
+2024-11,Children,Baby (0-12 months),3869,361658.8,3497
+2024-11,Children,Coats,3870,595641.7,3524
+2024-11,Children,"Girl and Boy (1-5 years, 6-14 years)",3901,535675.7,3529
+2024-11,Children,Pajamas,3789,317906.8,3469
+2024-11,Children,Sweaters,3967,443040.7,3586
+2024-11,Feminine,Accessories,5770,289756.2,5278
+2024-11,Feminine,Coats and Blazers,11499,2162454.8,10461
+2024-11,Feminine,Dresses and Jumpsuits,11604,1853783.1,10529
+2024-11,Feminine,Lingerie and Pajamas,5771,521350.1,5216
+2024-11,Feminine,Pants and Jeans,11461,1974868.0999999999,10459
+2024-11,Feminine,Shirts and Blouses,11585,1257737.7,10488
+2024-11,Feminine,Skirts and Shorts,11492,936190.1,10452
+2024-11,Feminine,Sportswear,11419,1353058.8,10355
+2024-11,Feminine,Suits and Sets,11515,3082724.5,10391
+2024-11,Feminine,Sweaters and Knitwear,11638,1423019.2,10509
+2024-11,Feminine,T-shirts and Tops,11746,913468.3,10630
+2024-11,Masculine,Accessories,5782,279766.9,5249
+2024-11,Masculine,Coats and Blazers,11765,2706569.3,10752
+2024-11,Masculine,Pants and Jeans,11691,2273831.8,10579
+2024-11,Masculine,Shirts,11748,1111031.1,10679
+2024-11,Masculine,Sportswear,11609,1668167.7,10631
+2024-11,Masculine,Suits and Blazers,11552,3665937.3000000003,10539
+2024-11,Masculine,Sweaters and Sweatshirts,11818,1641699.2,10708
+2024-11,Masculine,T-shirts and Polos,11896,1382063.5,10785
+2024-11,Masculine,Underwear and Pajamas,5928,509011.0,5349
+2024-12,Children,Accessories,12743,478294.0,11576
+2024-12,Children,Baby (0-12 months),12601,786949.5,11449
+2024-12,Children,Coats,12632,1367339.5,11528
+2024-12,Children,"Girl and Boy (1-5 years, 6-14 years)",12684,1165990.75,11561
+2024-12,Children,Pajamas,12742,758750.0,11616
+2024-12,Children,Sweaters,12647,977117.75,11450
+2024-12,Feminine,Accessories,18806,657942.0,17021
+2024-12,Feminine,Coats and Blazers,38267,4875832.75,34726
+2024-12,Feminine,Dresses and Jumpsuits,38018,4103542.5,34598
+2024-12,Feminine,Lingerie and Pajamas,18830,1146919.0,17143
+2024-12,Feminine,Pants and Jeans,37968,4460068.75,34489
+2024-12,Feminine,Shirts and Blouses,38263,2833432.0,34796
+2024-12,Feminine,Skirts and Shorts,37942,2144504.0,34546
+2024-12,Feminine,Sportswear,38200,3043779.75,34796
+2024-12,Feminine,Suits and Sets,38398,7093149.5,34844
+2024-12,Feminine,Sweaters and Knitwear,37886,3180059.75,34308
+2024-12,Feminine,T-shirts and Tops,38083,1994278.75,34604
+2024-12,Masculine,Accessories,18923,631687.75,17273
+2024-12,Masculine,Coats and Blazers,38020,5836360.0,34663
+2024-12,Masculine,Pants and Jeans,38550,5173615.75,34844
+2024-12,Masculine,Shirts,37857,2430752.5,34494
+2024-12,Masculine,Sportswear,38129,3799019.5,34653
+2024-12,Masculine,Suits and Blazers,38265,8184738.5,34898
+2024-12,Masculine,Sweaters and Sweatshirts,37828,3628520.25,34433
+2024-12,Masculine,T-shirts and Polos,38276,3055084.0,34737
+2024-12,Masculine,Underwear and Pajamas,19070,1137664.0,17302
+2025-01,Children,Accessories,2497,82292.75,2271
+2025-01,Children,Baby (0-12 months),2434,142997.85,2234
+2025-01,Children,Coats,7916,519619.67,7218
+2025-01,Children,"Girl and Boy (1-5 years, 6-14 years)",2526,215285.3,2289
+2025-01,Children,Pajamas,2404,130361.25,2211
+2025-01,Children,Sweaters,8016,391222.59,7321
+2025-01,Feminine,Accessories,3776,122023.15,3451
+2025-01,Feminine,Coats and Blazers,13133,1196936.05,11922
+2025-01,Feminine,Dresses and Jumpsuits,7547,767881.6,6805
+2025-01,Feminine,Lingerie and Pajamas,3984,223027.05,3574
+2025-01,Feminine,Pants and Jeans,7366,806256.4,6693
+2025-01,Feminine,Shirts and Blouses,7542,513862.85,6867
+2025-01,Feminine,Skirts and Shorts,7522,398970.5,6841
+2025-01,Feminine,Sportswear,7292,543522.1,6687
+2025-01,Feminine,Suits and Sets,7432,1289057.85,6769
+2025-01,Feminine,Sweaters and Knitwear,12598,772364.33,11504
+2025-01,Feminine,T-shirts and Tops,7553,364839.95,6864
+2025-01,Masculine,Accessories,3839,116989.55,3500
+2025-01,Masculine,Coats and Blazers,13132,1379058.05,11915
+2025-01,Masculine,Pants and Jeans,7743,947364.5,7063
+2025-01,Masculine,Shirts,7525,438971.45,6895
+2025-01,Masculine,Sportswear,7699,692204.65,7013
+2025-01,Masculine,Suits and Blazers,7705,1529584.4,6985
+2025-01,Masculine,Sweaters and Sweatshirts,13224,868167.6,11987
+2025-01,Masculine,T-shirts and Polos,7857,588007.0,7144
+2025-01,Masculine,Underwear and Pajamas,3675,194504.65,3351
+2025-02,Children,Accessories,2407,86054.1,2172
+2025-02,Children,Baby (0-12 months),2300,141173.55,2107
+2025-02,Children,Coats,2390,244278.9,2157
+2025-02,Children,"Girl and Boy (1-5 years, 6-14 years)",2338,213481.2,2124
+2025-02,Children,Pajamas,2446,143794.1,2214
+2025-02,Children,Sweaters,2375,179603.65,2167
+2025-02,Feminine,Accessories,3590,125378.45,3199
+2025-02,Feminine,Coats and Blazers,7018,888729.05,6369
+2025-02,Feminine,Dresses and Jumpsuits,7037,738397.65,6369
+2025-02,Feminine,Lingerie and Pajamas,3540,206481.5,3216
+2025-02,Feminine,Pants and Jeans,6913,819493.55,6284
+2025-02,Feminine,Shirts and Blouses,7072,521900.1,6467
+2025-02,Feminine,Skirts and Shorts,7126,388728.4,6448
+2025-02,Feminine,Sportswear,7074,569072.95,6387
+2025-02,Feminine,Suits and Sets,7201,1320142.15,6499
+2025-02,Feminine,Sweaters and Knitwear,6932,570753.35,6295
+2025-02,Feminine,T-shirts and Tops,7014,367673.05,6442
+2025-02,Masculine,Accessories,3545,115381.9,3230
+2025-02,Masculine,Coats and Blazers,7321,1081036.75,6655
+2025-02,Masculine,Pants and Jeans,7427,956581.05,6725
+2025-02,Masculine,Shirts,7403,453071.2,6725
+2025-02,Masculine,Sportswear,7371,708162.2,6708
+2025-02,Masculine,Suits and Blazers,7267,1514606.75,6633
+2025-02,Masculine,Sweaters and Sweatshirts,7454,703276.95,6751
+2025-02,Masculine,T-shirts and Polos,7179,541493.35,6547
+2025-02,Masculine,Underwear and Pajamas,3594,207875.95,3305
+2025-03,Children,Accessories,2177,96528.0,1934
+2025-03,Children,Baby (0-12 months),2080,165004.0,1907
+2025-03,Children,Coats,2120,323244.5,1932
+2025-03,Children,"Girl and Boy (1-5 years, 6-14 years)",9071,805387.79,8281
+2025-03,Children,Pajamas,2058,170080.5,1858
+2025-03,Children,Sweaters,2169,241573.5,1994
+2025-03,Feminine,Accessories,3242,158112.5,2959
+2025-03,Feminine,Coats and Blazers,6302,1118882.5,5758
+2025-03,Feminine,Dresses and Jumpsuits,9862,1252292.41,8989
+2025-03,Feminine,Lingerie and Pajamas,3147,253181.5,2813
+2025-03,Feminine,Pants and Jeans,6336,1010643.0,5770
+2025-03,Feminine,Shirts and Blouses,9950,841943.37,8967
+2025-03,Feminine,Skirts and Shorts,6251,477347.0,5694
+2025-03,Feminine,Sportswear,6160,706133.5,5582
+2025-03,Feminine,Suits and Sets,6324,1578228.0,5706
+2025-03,Feminine,Sweaters and Knitwear,6308,708566.0,5716
+2025-03,Feminine,T-shirts and Tops,6132,419821.0,5584
+2025-03,Masculine,Accessories,3226,136975.0,2887
+2025-03,Masculine,Coats and Blazers,6385,1282276.0,5778
+2025-03,Masculine,Pants and Jeans,6455,1200265.0,5858
+2025-03,Masculine,Shirts,9902,693198.98,9030
+2025-03,Masculine,Sportswear,6319,862041.0,5739
+2025-03,Masculine,Suits and Blazers,6493,1919776.0,5897
+2025-03,Masculine,Sweaters and Sweatshirts,6503,868734.5,5892
+2025-03,Masculine,T-shirts and Polos,9964,841672.87,9086
+2025-03,Masculine,Underwear and Pajamas,3254,262203.5,2993

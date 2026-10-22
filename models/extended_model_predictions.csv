@@ -1,0 +1,625 @@
+Month,Category,Sub Category,Model,Actual,Predicted
+2024-07-01,Children,Accessories,Previous Month,2613.0,2739.0
+2024-07-01,Children,Baby (0-12 months),Previous Month,2607.0,2748.0
+2024-07-01,Children,Coats,Previous Month,2583.0,2777.0
+2024-07-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,2700.0,2697.0
+2024-07-01,Children,Pajamas,Previous Month,2725.0,2781.0
+2024-07-01,Children,Sweaters,Previous Month,2482.0,2847.0
+2024-07-01,Feminine,Accessories,Previous Month,3998.0,3995.0
+2024-07-01,Feminine,Coats and Blazers,Previous Month,7784.0,8090.0
+2024-07-01,Feminine,Dresses and Jumpsuits,Previous Month,7840.0,8189.0
+2024-07-01,Feminine,Lingerie and Pajamas,Previous Month,4015.0,4086.0
+2024-07-01,Feminine,Pants and Jeans,Previous Month,7907.0,8189.0
+2024-07-01,Feminine,Shirts and Blouses,Previous Month,7888.0,8038.0
+2024-07-01,Feminine,Skirts and Shorts,Previous Month,7789.0,8212.0
+2024-07-01,Feminine,Sportswear,Previous Month,7631.0,8047.0
+2024-07-01,Feminine,Suits and Sets,Previous Month,7929.0,8037.0
+2024-07-01,Feminine,Sweaters and Knitwear,Previous Month,8031.0,8043.0
+2024-07-01,Feminine,T-shirts and Tops,Previous Month,7756.0,8142.0
+2024-07-01,Masculine,Accessories,Previous Month,4014.0,4150.0
+2024-07-01,Masculine,Coats and Blazers,Previous Month,8013.0,8164.0
+2024-07-01,Masculine,Pants and Jeans,Previous Month,8070.0,8099.0
+2024-07-01,Masculine,Shirts,Previous Month,8165.0,8121.0
+2024-07-01,Masculine,Sportswear,Previous Month,8143.0,8226.0
+2024-07-01,Masculine,Suits and Blazers,Previous Month,7974.0,8343.0
+2024-07-01,Masculine,Sweaters and Sweatshirts,Previous Month,8203.0,8158.0
+2024-07-01,Masculine,T-shirts and Polos,Previous Month,8256.0,8321.0
+2024-07-01,Masculine,Underwear and Pajamas,Previous Month,4057.0,3976.0
+2024-07-01,Children,Accessories,Seasonal Baseline,2613.0,2546.0
+2024-07-01,Children,Baby (0-12 months),Seasonal Baseline,2607.0,2643.0
+2024-07-01,Children,Coats,Seasonal Baseline,2583.0,2533.0
+2024-07-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,2700.0,2610.0
+2024-07-01,Children,Pajamas,Seasonal Baseline,2725.0,2532.0
+2024-07-01,Children,Sweaters,Seasonal Baseline,2482.0,2545.0
+2024-07-01,Feminine,Accessories,Seasonal Baseline,3998.0,3860.0
+2024-07-01,Feminine,Coats and Blazers,Seasonal Baseline,7784.0,7628.0
+2024-07-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,7840.0,7438.0
+2024-07-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,4015.0,3814.0
+2024-07-01,Feminine,Pants and Jeans,Seasonal Baseline,7907.0,7758.0
+2024-07-01,Feminine,Shirts and Blouses,Seasonal Baseline,7888.0,7740.0
+2024-07-01,Feminine,Skirts and Shorts,Seasonal Baseline,7789.0,7647.0
+2024-07-01,Feminine,Sportswear,Seasonal Baseline,7631.0,7521.0
+2024-07-01,Feminine,Suits and Sets,Seasonal Baseline,7929.0,7662.0
+2024-07-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,8031.0,7581.0
+2024-07-01,Feminine,T-shirts and Tops,Seasonal Baseline,7756.0,7695.0
+2024-07-01,Masculine,Accessories,Seasonal Baseline,4014.0,3831.0
+2024-07-01,Masculine,Coats and Blazers,Seasonal Baseline,8013.0,7721.0
+2024-07-01,Masculine,Pants and Jeans,Seasonal Baseline,8070.0,7786.0
+2024-07-01,Masculine,Shirts,Seasonal Baseline,8165.0,7792.0
+2024-07-01,Masculine,Sportswear,Seasonal Baseline,8143.0,7847.0
+2024-07-01,Masculine,Suits and Blazers,Seasonal Baseline,7974.0,7740.0
+2024-07-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,8203.0,7773.0
+2024-07-01,Masculine,T-shirts and Polos,Seasonal Baseline,8256.0,7779.0
+2024-07-01,Masculine,Underwear and Pajamas,Seasonal Baseline,4057.0,3874.0
+2024-07-01,Children,Accessories,Random Forest,2613.0,2821.733333333333
+2024-07-01,Children,Baby (0-12 months),Random Forest,2607.0,2840.7733333333335
+2024-07-01,Children,Coats,Random Forest,2583.0,2831.6866666666665
+2024-07-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,2700.0,2826.3
+2024-07-01,Children,Pajamas,Random Forest,2725.0,2823.8733333333334
+2024-07-01,Children,Sweaters,Random Forest,2482.0,2827.0933333333332
+2024-07-01,Feminine,Accessories,Random Forest,3998.0,3931.1133333333332
+2024-07-01,Feminine,Coats and Blazers,Random Forest,7784.0,8128.633333333333
+2024-07-01,Feminine,Dresses and Jumpsuits,Random Forest,7840.0,8183.066666666667
+2024-07-01,Feminine,Lingerie and Pajamas,Random Forest,4015.0,3928.7933333333335
+2024-07-01,Feminine,Pants and Jeans,Random Forest,7907.0,8170.066666666667
+2024-07-01,Feminine,Shirts and Blouses,Random Forest,7888.0,8127.98
+2024-07-01,Feminine,Skirts and Shorts,Random Forest,7789.0,8212.493333333334
+2024-07-01,Feminine,Sportswear,Random Forest,7631.0,8103.073333333334
+2024-07-01,Feminine,Suits and Sets,Random Forest,7929.0,8124.166666666667
+2024-07-01,Feminine,Sweaters and Knitwear,Random Forest,8031.0,8096.26
+2024-07-01,Feminine,T-shirts and Tops,Random Forest,7756.0,8207.486666666666
+2024-07-01,Masculine,Accessories,Random Forest,4014.0,3932.6866666666665
+2024-07-01,Masculine,Coats and Blazers,Random Forest,8013.0,8172.113333333334
+2024-07-01,Masculine,Pants and Jeans,Random Forest,8070.0,8286.66
+2024-07-01,Masculine,Shirts,Random Forest,8165.0,8198.7
+2024-07-01,Masculine,Sportswear,Random Forest,8143.0,8212.293333333333
+2024-07-01,Masculine,Suits and Blazers,Random Forest,7974.0,8193.16
+2024-07-01,Masculine,Sweaters and Sweatshirts,Random Forest,8203.0,8197.866666666667
+2024-07-01,Masculine,T-shirts and Polos,Random Forest,8256.0,8288.64
+2024-07-01,Masculine,Underwear and Pajamas,Random Forest,4057.0,3957.1666666666665
+2024-08-01,Children,Accessories,Previous Month,2751.0,2613.0
+2024-08-01,Children,Baby (0-12 months),Previous Month,2743.0,2607.0
+2024-08-01,Children,Coats,Previous Month,2694.0,2583.0
+2024-08-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,2932.0,2700.0
+2024-08-01,Children,Pajamas,Previous Month,2830.0,2725.0
+2024-08-01,Children,Sweaters,Previous Month,2752.0,2482.0
+2024-08-01,Feminine,Accessories,Previous Month,4182.0,3998.0
+2024-08-01,Feminine,Coats and Blazers,Previous Month,8123.0,7784.0
+2024-08-01,Feminine,Dresses and Jumpsuits,Previous Month,8285.0,7840.0
+2024-08-01,Feminine,Lingerie and Pajamas,Previous Month,4175.0,4015.0
+2024-08-01,Feminine,Pants and Jeans,Previous Month,8069.0,7907.0
+2024-08-01,Feminine,Shirts and Blouses,Previous Month,8067.0,7888.0
+2024-08-01,Feminine,Skirts and Shorts,Previous Month,8252.0,7789.0
+2024-08-01,Feminine,Sportswear,Previous Month,8190.0,7631.0
+2024-08-01,Feminine,Suits and Sets,Previous Month,8285.0,7929.0
+2024-08-01,Feminine,Sweaters and Knitwear,Previous Month,8280.0,8031.0
+2024-08-01,Feminine,T-shirts and Tops,Previous Month,8255.0,7756.0
+2024-08-01,Masculine,Accessories,Previous Month,4172.0,4014.0
+2024-08-01,Masculine,Coats and Blazers,Previous Month,8376.0,8013.0
+2024-08-01,Masculine,Pants and Jeans,Previous Month,8455.0,8070.0
+2024-08-01,Masculine,Shirts,Previous Month,8358.0,8165.0
+2024-08-01,Masculine,Sportswear,Previous Month,8326.0,8143.0
+2024-08-01,Masculine,Suits and Blazers,Previous Month,8288.0,7974.0
+2024-08-01,Masculine,Sweaters and Sweatshirts,Previous Month,8345.0,8203.0
+2024-08-01,Masculine,T-shirts and Polos,Previous Month,8227.0,8256.0
+2024-08-01,Masculine,Underwear and Pajamas,Previous Month,4058.0,4057.0
+2024-08-01,Children,Accessories,Seasonal Baseline,2751.0,2212.0
+2024-08-01,Children,Baby (0-12 months),Seasonal Baseline,2743.0,2284.0
+2024-08-01,Children,Coats,Seasonal Baseline,2694.0,2208.0
+2024-08-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,2932.0,2152.0
+2024-08-01,Children,Pajamas,Seasonal Baseline,2830.0,2124.0
+2024-08-01,Children,Sweaters,Seasonal Baseline,2752.0,2180.0
+2024-08-01,Feminine,Accessories,Seasonal Baseline,4182.0,3248.0
+2024-08-01,Feminine,Coats and Blazers,Seasonal Baseline,8123.0,6676.0
+2024-08-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,8285.0,6604.0
+2024-08-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,4175.0,3339.0
+2024-08-01,Feminine,Pants and Jeans,Seasonal Baseline,8069.0,6743.0
+2024-08-01,Feminine,Shirts and Blouses,Seasonal Baseline,8067.0,6744.0
+2024-08-01,Feminine,Skirts and Shorts,Seasonal Baseline,8252.0,6647.0
+2024-08-01,Feminine,Sportswear,Seasonal Baseline,8190.0,6644.0
+2024-08-01,Feminine,Suits and Sets,Seasonal Baseline,8285.0,6811.0
+2024-08-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,8280.0,6681.0
+2024-08-01,Feminine,T-shirts and Tops,Seasonal Baseline,8255.0,6670.0
+2024-08-01,Masculine,Accessories,Seasonal Baseline,4172.0,3315.0
+2024-08-01,Masculine,Coats and Blazers,Seasonal Baseline,8376.0,6725.0
+2024-08-01,Masculine,Pants and Jeans,Seasonal Baseline,8455.0,6795.0
+2024-08-01,Masculine,Shirts,Seasonal Baseline,8358.0,6651.0
+2024-08-01,Masculine,Sportswear,Seasonal Baseline,8326.0,6682.0
+2024-08-01,Masculine,Suits and Blazers,Seasonal Baseline,8288.0,6693.0
+2024-08-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,8345.0,6754.0
+2024-08-01,Masculine,T-shirts and Polos,Seasonal Baseline,8227.0,6783.0
+2024-08-01,Masculine,Underwear and Pajamas,Seasonal Baseline,4058.0,3349.0
+2024-08-01,Children,Accessories,Random Forest,2751.0,2648.9266666666667
+2024-08-01,Children,Baby (0-12 months),Random Forest,2743.0,2610.5466666666666
+2024-08-01,Children,Coats,Random Forest,2694.0,2622.9266666666667
+2024-08-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,2932.0,2641.4933333333333
+2024-08-01,Children,Pajamas,Random Forest,2830.0,2648.8933333333334
+2024-08-01,Children,Sweaters,Random Forest,2752.0,2665.3533333333335
+2024-08-01,Feminine,Accessories,Random Forest,4182.0,3783.8733333333334
+2024-08-01,Feminine,Coats and Blazers,Random Forest,8123.0,8098.433333333333
+2024-08-01,Feminine,Dresses and Jumpsuits,Random Forest,8285.0,8050.9
+2024-08-01,Feminine,Lingerie and Pajamas,Random Forest,4175.0,4091.7266666666665
+2024-08-01,Feminine,Pants and Jeans,Random Forest,8069.0,8032.693333333334
+2024-08-01,Feminine,Shirts and Blouses,Random Forest,8067.0,8027.753333333333
+2024-08-01,Feminine,Skirts and Shorts,Random Forest,8252.0,8052.0
+2024-08-01,Feminine,Sportswear,Random Forest,8190.0,7982.54
+2024-08-01,Feminine,Suits and Sets,Random Forest,8285.0,8030.28
+2024-08-01,Feminine,Sweaters and Knitwear,Random Forest,8280.0,8103.14
+2024-08-01,Feminine,T-shirts and Tops,Random Forest,8255.0,8051.92
+2024-08-01,Masculine,Accessories,Random Forest,4172.0,4065.0866666666666
+2024-08-01,Masculine,Coats and Blazers,Random Forest,8376.0,8133.786666666667
+2024-08-01,Masculine,Pants and Jeans,Random Forest,8455.0,8076.64
+2024-08-01,Masculine,Shirts,Random Forest,8358.0,8149.286666666667
+2024-08-01,Masculine,Sportswear,Random Forest,8326.0,8138.92
+2024-08-01,Masculine,Suits and Blazers,Random Forest,8288.0,7928.88
+2024-08-01,Masculine,Sweaters and Sweatshirts,Random Forest,8345.0,8145.9
+2024-08-01,Masculine,T-shirts and Polos,Random Forest,8227.0,8168.066666666667
+2024-08-01,Masculine,Underwear and Pajamas,Random Forest,4058.0,4075.38
+2024-09-01,Children,Accessories,Previous Month,4634.0,2751.0
+2024-09-01,Children,Baby (0-12 months),Previous Month,4649.0,2743.0
+2024-09-01,Children,Coats,Previous Month,20879.0,2694.0
+2024-09-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,20884.0,2932.0
+2024-09-01,Children,Pajamas,Previous Month,4606.0,2830.0
+2024-09-01,Children,Sweaters,Previous Month,4680.0,2752.0
+2024-09-01,Feminine,Accessories,Previous Month,7051.0,4182.0
+2024-09-01,Feminine,Coats and Blazers,Previous Month,13798.0,8123.0
+2024-09-01,Feminine,Dresses and Jumpsuits,Previous Month,24212.0,8285.0
+2024-09-01,Feminine,Lingerie and Pajamas,Previous Month,7001.0,4175.0
+2024-09-01,Feminine,Pants and Jeans,Previous Month,13548.0,8069.0
+2024-09-01,Feminine,Shirts and Blouses,Previous Month,24026.0,8067.0
+2024-09-01,Feminine,Skirts and Shorts,Previous Month,24411.0,8252.0
+2024-09-01,Feminine,Sportswear,Previous Month,13627.0,8190.0
+2024-09-01,Feminine,Suits and Sets,Previous Month,13680.0,8285.0
+2024-09-01,Feminine,Sweaters and Knitwear,Previous Month,13714.0,8280.0
+2024-09-01,Feminine,T-shirts and Tops,Previous Month,13748.0,8255.0
+2024-09-01,Masculine,Accessories,Previous Month,6953.0,4172.0
+2024-09-01,Masculine,Coats and Blazers,Previous Month,14069.0,8376.0
+2024-09-01,Masculine,Pants and Jeans,Previous Month,30018.0,8455.0
+2024-09-01,Masculine,Shirts,Previous Month,30315.0,8358.0
+2024-09-01,Masculine,Sportswear,Previous Month,14055.0,8326.0
+2024-09-01,Masculine,Suits and Blazers,Previous Month,14298.0,8288.0
+2024-09-01,Masculine,Sweaters and Sweatshirts,Previous Month,13972.0,8345.0
+2024-09-01,Masculine,T-shirts and Polos,Previous Month,13880.0,8227.0
+2024-09-01,Masculine,Underwear and Pajamas,Previous Month,6892.0,4058.0
+2024-09-01,Children,Accessories,Seasonal Baseline,4634.0,4033.0
+2024-09-01,Children,Baby (0-12 months),Seasonal Baseline,4649.0,3984.0
+2024-09-01,Children,Coats,Seasonal Baseline,20879.0,17247.0
+2024-09-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,20884.0,17440.0
+2024-09-01,Children,Pajamas,Seasonal Baseline,4606.0,3938.0
+2024-09-01,Children,Sweaters,Seasonal Baseline,4680.0,3985.0
+2024-09-01,Feminine,Accessories,Seasonal Baseline,7051.0,6090.0
+2024-09-01,Feminine,Coats and Blazers,Seasonal Baseline,13798.0,12183.0
+2024-09-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,24212.0,20943.0
+2024-09-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,7001.0,6039.0
+2024-09-01,Feminine,Pants and Jeans,Seasonal Baseline,13548.0,11982.0
+2024-09-01,Feminine,Shirts and Blouses,Seasonal Baseline,24026.0,20978.0
+2024-09-01,Feminine,Skirts and Shorts,Seasonal Baseline,24411.0,21135.0
+2024-09-01,Feminine,Sportswear,Seasonal Baseline,13627.0,11900.0
+2024-09-01,Feminine,Suits and Sets,Seasonal Baseline,13680.0,12090.0
+2024-09-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,13714.0,12043.0
+2024-09-01,Feminine,T-shirts and Tops,Seasonal Baseline,13748.0,12088.0
+2024-09-01,Masculine,Accessories,Seasonal Baseline,6953.0,6154.0
+2024-09-01,Masculine,Coats and Blazers,Seasonal Baseline,14069.0,12267.0
+2024-09-01,Masculine,Pants and Jeans,Seasonal Baseline,30018.0,25702.0
+2024-09-01,Masculine,Shirts,Seasonal Baseline,30315.0,25503.0
+2024-09-01,Masculine,Sportswear,Seasonal Baseline,14055.0,12102.0
+2024-09-01,Masculine,Suits and Blazers,Seasonal Baseline,14298.0,12203.0
+2024-09-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,13972.0,12256.0
+2024-09-01,Masculine,T-shirts and Polos,Seasonal Baseline,13880.0,12162.0
+2024-09-01,Masculine,Underwear and Pajamas,Seasonal Baseline,6892.0,6090.0
+2024-09-01,Children,Accessories,Random Forest,4634.0,4312.366666666667
+2024-09-01,Children,Baby (0-12 months),Random Forest,4649.0,4161.153333333334
+2024-09-01,Children,Coats,Random Forest,20879.0,21872.64
+2024-09-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,20884.0,22421.893333333333
+2024-09-01,Children,Pajamas,Random Forest,4606.0,4159.953333333333
+2024-09-01,Children,Sweaters,Random Forest,4680.0,3999.24
+2024-09-01,Feminine,Accessories,Random Forest,7051.0,8402.326666666666
+2024-09-01,Feminine,Coats and Blazers,Random Forest,13798.0,13249.8
+2024-09-01,Feminine,Dresses and Jumpsuits,Random Forest,24212.0,24140.453333333335
+2024-09-01,Feminine,Lingerie and Pajamas,Random Forest,7001.0,8404.593333333334
+2024-09-01,Feminine,Pants and Jeans,Random Forest,13548.0,13252.12
+2024-09-01,Feminine,Shirts and Blouses,Random Forest,24026.0,24252.553333333333
+2024-09-01,Feminine,Skirts and Shorts,Random Forest,24411.0,24194.97333333333
+2024-09-01,Feminine,Sportswear,Random Forest,13627.0,13213.193333333333
+2024-09-01,Feminine,Suits and Sets,Random Forest,13680.0,13253.573333333334
+2024-09-01,Feminine,Sweaters and Knitwear,Random Forest,13714.0,13252.933333333332
+2024-09-01,Feminine,T-shirts and Tops,Random Forest,13748.0,13242.666666666666
+2024-09-01,Masculine,Accessories,Random Forest,6953.0,8466.913333333334
+2024-09-01,Masculine,Coats and Blazers,Random Forest,14069.0,13329.18
+2024-09-01,Masculine,Pants and Jeans,Random Forest,30018.0,24591.966666666667
+2024-09-01,Masculine,Shirts,Random Forest,30315.0,24647.673333333332
+2024-09-01,Masculine,Sportswear,Random Forest,14055.0,13329.993333333334
+2024-09-01,Masculine,Suits and Blazers,Random Forest,14298.0,13325.846666666666
+2024-09-01,Masculine,Sweaters and Sweatshirts,Random Forest,13972.0,13312.906666666666
+2024-09-01,Masculine,T-shirts and Polos,Random Forest,13880.0,13325.96
+2024-09-01,Masculine,Underwear and Pajamas,Random Forest,6892.0,8469.18
+2024-10-01,Children,Accessories,Previous Month,13360.0,4634.0
+2024-10-01,Children,Baby (0-12 months),Previous Month,4344.0,4649.0
+2024-10-01,Children,Coats,Previous Month,4408.0,20879.0
+2024-10-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,4245.0,20884.0
+2024-10-01,Children,Pajamas,Previous Month,4369.0,4606.0
+2024-10-01,Children,Sweaters,Previous Month,13509.0,4680.0
+2024-10-01,Feminine,Accessories,Previous Month,6570.0,7051.0
+2024-10-01,Feminine,Coats and Blazers,Previous Month,12630.0,13798.0
+2024-10-01,Feminine,Dresses and Jumpsuits,Previous Month,12706.0,24212.0
+2024-10-01,Feminine,Lingerie and Pajamas,Previous Month,6641.0,7001.0
+2024-10-01,Feminine,Pants and Jeans,Previous Month,12668.0,13548.0
+2024-10-01,Feminine,Shirts and Blouses,Previous Month,12896.0,24026.0
+2024-10-01,Feminine,Skirts and Shorts,Previous Month,12841.0,24411.0
+2024-10-01,Feminine,Sportswear,Previous Month,21908.0,13627.0
+2024-10-01,Feminine,Suits and Sets,Previous Month,12880.0,13680.0
+2024-10-01,Feminine,Sweaters and Knitwear,Previous Month,22005.0,13714.0
+2024-10-01,Feminine,T-shirts and Tops,Previous Month,12679.0,13748.0
+2024-10-01,Masculine,Accessories,Previous Month,6471.0,6953.0
+2024-10-01,Masculine,Coats and Blazers,Previous Month,12928.0,14069.0
+2024-10-01,Masculine,Pants and Jeans,Previous Month,13197.0,30018.0
+2024-10-01,Masculine,Shirts,Previous Month,13091.0,30315.0
+2024-10-01,Masculine,Sportswear,Previous Month,22308.0,14055.0
+2024-10-01,Masculine,Suits and Blazers,Previous Month,12794.0,14298.0
+2024-10-01,Masculine,Sweaters and Sweatshirts,Previous Month,22398.0,13972.0
+2024-10-01,Masculine,T-shirts and Polos,Previous Month,13250.0,13880.0
+2024-10-01,Masculine,Underwear and Pajamas,Previous Month,6496.0,6892.0
+2024-10-01,Children,Accessories,Seasonal Baseline,13360.0,12803.0
+2024-10-01,Children,Baby (0-12 months),Seasonal Baseline,4344.0,3815.0
+2024-10-01,Children,Coats,Seasonal Baseline,4408.0,3775.0
+2024-10-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,4245.0,3957.0
+2024-10-01,Children,Pajamas,Seasonal Baseline,4369.0,3884.0
+2024-10-01,Children,Sweaters,Seasonal Baseline,13509.0,12796.0
+2024-10-01,Feminine,Accessories,Seasonal Baseline,6570.0,5773.0
+2024-10-01,Feminine,Coats and Blazers,Seasonal Baseline,12630.0,11731.0
+2024-10-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,12706.0,11601.0
+2024-10-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,6641.0,5807.0
+2024-10-01,Feminine,Pants and Jeans,Seasonal Baseline,12668.0,11484.0
+2024-10-01,Feminine,Shirts and Blouses,Seasonal Baseline,12896.0,11542.0
+2024-10-01,Feminine,Skirts and Shorts,Seasonal Baseline,12841.0,11635.0
+2024-10-01,Feminine,Sportswear,Seasonal Baseline,21908.0,20529.0
+2024-10-01,Feminine,Suits and Sets,Seasonal Baseline,12880.0,11558.0
+2024-10-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,22005.0,20551.0
+2024-10-01,Feminine,T-shirts and Tops,Seasonal Baseline,12679.0,11597.0
+2024-10-01,Masculine,Accessories,Seasonal Baseline,6471.0,5859.0
+2024-10-01,Masculine,Coats and Blazers,Seasonal Baseline,12928.0,11749.0
+2024-10-01,Masculine,Pants and Jeans,Seasonal Baseline,13197.0,11640.0
+2024-10-01,Masculine,Shirts,Seasonal Baseline,13091.0,11818.0
+2024-10-01,Masculine,Sportswear,Seasonal Baseline,22308.0,20565.0
+2024-10-01,Masculine,Suits and Blazers,Seasonal Baseline,12794.0,11767.0
+2024-10-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,22398.0,20458.0
+2024-10-01,Masculine,T-shirts and Polos,Seasonal Baseline,13250.0,11488.0
+2024-10-01,Masculine,Underwear and Pajamas,Seasonal Baseline,6496.0,5800.0
+2024-10-01,Children,Accessories,Random Forest,13360.0,14224.693333333333
+2024-10-01,Children,Baby (0-12 months),Random Forest,4344.0,4125.24
+2024-10-01,Children,Coats,Random Forest,4408.0,3966.24
+2024-10-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,4245.0,4643.58
+2024-10-01,Children,Pajamas,Random Forest,4369.0,4137.793333333333
+2024-10-01,Children,Sweaters,Random Forest,13509.0,14224.693333333333
+2024-10-01,Feminine,Accessories,Random Forest,6570.0,7127.1
+2024-10-01,Feminine,Coats and Blazers,Random Forest,12630.0,13999.02
+2024-10-01,Feminine,Dresses and Jumpsuits,Random Forest,12706.0,13891.786666666667
+2024-10-01,Feminine,Lingerie and Pajamas,Random Forest,6641.0,7133.26
+2024-10-01,Feminine,Pants and Jeans,Random Forest,12668.0,13884.22
+2024-10-01,Feminine,Shirts and Blouses,Random Forest,12896.0,13772.96
+2024-10-01,Feminine,Skirts and Shorts,Random Forest,12841.0,13904.72
+2024-10-01,Feminine,Sportswear,Random Forest,21908.0,23351.22
+2024-10-01,Feminine,Suits and Sets,Random Forest,12880.0,13892.306666666667
+2024-10-01,Feminine,Sweaters and Knitwear,Random Forest,22005.0,24581.266666666666
+2024-10-01,Feminine,T-shirts and Tops,Random Forest,12679.0,14005.453333333333
+2024-10-01,Masculine,Accessories,Random Forest,6471.0,7129.366666666667
+2024-10-01,Masculine,Coats and Blazers,Random Forest,12928.0,13961.113333333333
+2024-10-01,Masculine,Pants and Jeans,Random Forest,13197.0,13793.6
+2024-10-01,Masculine,Shirts,Random Forest,13091.0,13804.613333333333
+2024-10-01,Masculine,Sportswear,Random Forest,22308.0,24330.166666666668
+2024-10-01,Masculine,Suits and Blazers,Random Forest,12794.0,14040.686666666666
+2024-10-01,Masculine,Sweaters and Sweatshirts,Random Forest,22398.0,24342.02
+2024-10-01,Masculine,T-shirts and Polos,Random Forest,13250.0,13955.22
+2024-10-01,Masculine,Underwear and Pajamas,Random Forest,6496.0,7127.926666666666
+2024-11-01,Children,Accessories,Previous Month,3907.0,13360.0
+2024-11-01,Children,Baby (0-12 months),Previous Month,3869.0,4344.0
+2024-11-01,Children,Coats,Previous Month,3870.0,4408.0
+2024-11-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,3901.0,4245.0
+2024-11-01,Children,Pajamas,Previous Month,3789.0,4369.0
+2024-11-01,Children,Sweaters,Previous Month,3967.0,13509.0
+2024-11-01,Feminine,Accessories,Previous Month,5770.0,6570.0
+2024-11-01,Feminine,Coats and Blazers,Previous Month,11499.0,12630.0
+2024-11-01,Feminine,Dresses and Jumpsuits,Previous Month,11604.0,12706.0
+2024-11-01,Feminine,Lingerie and Pajamas,Previous Month,5771.0,6641.0
+2024-11-01,Feminine,Pants and Jeans,Previous Month,11461.0,12668.0
+2024-11-01,Feminine,Shirts and Blouses,Previous Month,11585.0,12896.0
+2024-11-01,Feminine,Skirts and Shorts,Previous Month,11492.0,12841.0
+2024-11-01,Feminine,Sportswear,Previous Month,11419.0,21908.0
+2024-11-01,Feminine,Suits and Sets,Previous Month,11515.0,12880.0
+2024-11-01,Feminine,Sweaters and Knitwear,Previous Month,11638.0,22005.0
+2024-11-01,Feminine,T-shirts and Tops,Previous Month,11746.0,12679.0
+2024-11-01,Masculine,Accessories,Previous Month,5782.0,6471.0
+2024-11-01,Masculine,Coats and Blazers,Previous Month,11765.0,12928.0
+2024-11-01,Masculine,Pants and Jeans,Previous Month,11691.0,13197.0
+2024-11-01,Masculine,Shirts,Previous Month,11748.0,13091.0
+2024-11-01,Masculine,Sportswear,Previous Month,11609.0,22308.0
+2024-11-01,Masculine,Suits and Blazers,Previous Month,11552.0,12794.0
+2024-11-01,Masculine,Sweaters and Sweatshirts,Previous Month,11818.0,22398.0
+2024-11-01,Masculine,T-shirts and Polos,Previous Month,11896.0,13250.0
+2024-11-01,Masculine,Underwear and Pajamas,Previous Month,5928.0,6496.0
+2024-11-01,Children,Accessories,Seasonal Baseline,3907.0,3402.0
+2024-11-01,Children,Baby (0-12 months),Seasonal Baseline,3869.0,3320.0
+2024-11-01,Children,Coats,Seasonal Baseline,3870.0,3290.0
+2024-11-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,3901.0,3314.0
+2024-11-01,Children,Pajamas,Seasonal Baseline,3789.0,3493.0
+2024-11-01,Children,Sweaters,Seasonal Baseline,3967.0,3320.0
+2024-11-01,Feminine,Accessories,Seasonal Baseline,5770.0,5171.0
+2024-11-01,Feminine,Coats and Blazers,Seasonal Baseline,11499.0,10405.0
+2024-11-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,11604.0,10410.0
+2024-11-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,5771.0,5006.0
+2024-11-01,Feminine,Pants and Jeans,Seasonal Baseline,11461.0,10119.0
+2024-11-01,Feminine,Shirts and Blouses,Seasonal Baseline,11585.0,10147.0
+2024-11-01,Feminine,Skirts and Shorts,Seasonal Baseline,11492.0,10239.0
+2024-11-01,Feminine,Sportswear,Seasonal Baseline,11419.0,10002.0
+2024-11-01,Feminine,Suits and Sets,Seasonal Baseline,11515.0,10255.0
+2024-11-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,11638.0,10286.0
+2024-11-01,Feminine,T-shirts and Tops,Seasonal Baseline,11746.0,10235.0
+2024-11-01,Masculine,Accessories,Seasonal Baseline,5782.0,5067.0
+2024-11-01,Masculine,Coats and Blazers,Seasonal Baseline,11765.0,10283.0
+2024-11-01,Masculine,Pants and Jeans,Seasonal Baseline,11691.0,10586.0
+2024-11-01,Masculine,Shirts,Seasonal Baseline,11748.0,10276.0
+2024-11-01,Masculine,Sportswear,Seasonal Baseline,11609.0,10220.0
+2024-11-01,Masculine,Suits and Blazers,Seasonal Baseline,11552.0,10246.0
+2024-11-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,11818.0,10414.0
+2024-11-01,Masculine,T-shirts and Polos,Seasonal Baseline,11896.0,10299.0
+2024-11-01,Masculine,Underwear and Pajamas,Seasonal Baseline,5928.0,5256.0
+2024-11-01,Children,Accessories,Random Forest,3907.0,4245.1
+2024-11-01,Children,Baby (0-12 months),Random Forest,3869.0,4248.746666666667
+2024-11-01,Children,Coats,Random Forest,3870.0,4093.8333333333335
+2024-11-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,3901.0,4159.76
+2024-11-01,Children,Pajamas,Random Forest,3789.0,4251.68
+2024-11-01,Children,Sweaters,Random Forest,3967.0,4237.846666666666
+2024-11-01,Feminine,Accessories,Random Forest,5770.0,6342.08
+2024-11-01,Feminine,Coats and Blazers,Random Forest,11499.0,11817.393333333333
+2024-11-01,Feminine,Dresses and Jumpsuits,Random Forest,11604.0,11811.926666666666
+2024-11-01,Feminine,Lingerie and Pajamas,Random Forest,5771.0,6079.793333333333
+2024-11-01,Feminine,Pants and Jeans,Random Forest,11461.0,11832.706666666667
+2024-11-01,Feminine,Shirts and Blouses,Random Forest,11585.0,11824.253333333334
+2024-11-01,Feminine,Skirts and Shorts,Random Forest,11492.0,11820.673333333334
+2024-11-01,Feminine,Sportswear,Random Forest,11419.0,11850.18
+2024-11-01,Feminine,Suits and Sets,Random Forest,11515.0,11831.526666666667
+2024-11-01,Feminine,Sweaters and Knitwear,Random Forest,11638.0,11821.0
+2024-11-01,Feminine,T-shirts and Tops,Random Forest,11746.0,11827.32
+2024-11-01,Masculine,Accessories,Random Forest,5782.0,6318.946666666667
+2024-11-01,Masculine,Coats and Blazers,Random Forest,11765.0,11858.153333333334
+2024-11-01,Masculine,Pants and Jeans,Random Forest,11691.0,11895.226666666667
+2024-11-01,Masculine,Shirts,Random Forest,11748.0,11891.833333333334
+2024-11-01,Masculine,Sportswear,Random Forest,11609.0,11870.486666666666
+2024-11-01,Masculine,Suits and Blazers,Random Forest,11552.0,11862.953333333333
+2024-11-01,Masculine,Sweaters and Sweatshirts,Random Forest,11818.0,11855.62
+2024-11-01,Masculine,T-shirts and Polos,Random Forest,11896.0,11868.133333333333
+2024-11-01,Masculine,Underwear and Pajamas,Random Forest,5928.0,6316.266666666666
+2024-12-01,Children,Accessories,Previous Month,12743.0,3907.0
+2024-12-01,Children,Baby (0-12 months),Previous Month,12601.0,3869.0
+2024-12-01,Children,Coats,Previous Month,12632.0,3870.0
+2024-12-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,12684.0,3901.0
+2024-12-01,Children,Pajamas,Previous Month,12742.0,3789.0
+2024-12-01,Children,Sweaters,Previous Month,12647.0,3967.0
+2024-12-01,Feminine,Accessories,Previous Month,18806.0,5770.0
+2024-12-01,Feminine,Coats and Blazers,Previous Month,38267.0,11499.0
+2024-12-01,Feminine,Dresses and Jumpsuits,Previous Month,38018.0,11604.0
+2024-12-01,Feminine,Lingerie and Pajamas,Previous Month,18830.0,5771.0
+2024-12-01,Feminine,Pants and Jeans,Previous Month,37968.0,11461.0
+2024-12-01,Feminine,Shirts and Blouses,Previous Month,38263.0,11585.0
+2024-12-01,Feminine,Skirts and Shorts,Previous Month,37942.0,11492.0
+2024-12-01,Feminine,Sportswear,Previous Month,38200.0,11419.0
+2024-12-01,Feminine,Suits and Sets,Previous Month,38398.0,11515.0
+2024-12-01,Feminine,Sweaters and Knitwear,Previous Month,37886.0,11638.0
+2024-12-01,Feminine,T-shirts and Tops,Previous Month,38083.0,11746.0
+2024-12-01,Masculine,Accessories,Previous Month,18923.0,5782.0
+2024-12-01,Masculine,Coats and Blazers,Previous Month,38020.0,11765.0
+2024-12-01,Masculine,Pants and Jeans,Previous Month,38550.0,11691.0
+2024-12-01,Masculine,Shirts,Previous Month,37857.0,11748.0
+2024-12-01,Masculine,Sportswear,Previous Month,38129.0,11609.0
+2024-12-01,Masculine,Suits and Blazers,Previous Month,38265.0,11552.0
+2024-12-01,Masculine,Sweaters and Sweatshirts,Previous Month,37828.0,11818.0
+2024-12-01,Masculine,T-shirts and Polos,Previous Month,38276.0,11896.0
+2024-12-01,Masculine,Underwear and Pajamas,Previous Month,19070.0,5928.0
+2024-12-01,Children,Accessories,Seasonal Baseline,12743.0,11545.0
+2024-12-01,Children,Baby (0-12 months),Seasonal Baseline,12601.0,11440.0
+2024-12-01,Children,Coats,Seasonal Baseline,12632.0,11292.0
+2024-12-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,12684.0,11369.0
+2024-12-01,Children,Pajamas,Seasonal Baseline,12742.0,11583.0
+2024-12-01,Children,Sweaters,Seasonal Baseline,12647.0,11535.0
+2024-12-01,Feminine,Accessories,Seasonal Baseline,18806.0,17436.0
+2024-12-01,Feminine,Coats and Blazers,Seasonal Baseline,38267.0,34881.0
+2024-12-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,38018.0,34710.0
+2024-12-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,18830.0,17546.0
+2024-12-01,Feminine,Pants and Jeans,Seasonal Baseline,37968.0,34733.0
+2024-12-01,Feminine,Shirts and Blouses,Seasonal Baseline,38263.0,34997.0
+2024-12-01,Feminine,Skirts and Shorts,Seasonal Baseline,37942.0,34957.0
+2024-12-01,Feminine,Sportswear,Seasonal Baseline,38200.0,34864.0
+2024-12-01,Feminine,Suits and Sets,Seasonal Baseline,38398.0,34816.0
+2024-12-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,37886.0,34438.0
+2024-12-01,Feminine,T-shirts and Tops,Seasonal Baseline,38083.0,34228.0
+2024-12-01,Masculine,Accessories,Seasonal Baseline,18923.0,17206.0
+2024-12-01,Masculine,Coats and Blazers,Seasonal Baseline,38020.0,34460.0
+2024-12-01,Masculine,Pants and Jeans,Seasonal Baseline,38550.0,34856.0
+2024-12-01,Masculine,Shirts,Seasonal Baseline,37857.0,34438.0
+2024-12-01,Masculine,Sportswear,Seasonal Baseline,38129.0,34826.0
+2024-12-01,Masculine,Suits and Blazers,Seasonal Baseline,38265.0,34661.0
+2024-12-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,37828.0,34914.0
+2024-12-01,Masculine,T-shirts and Polos,Seasonal Baseline,38276.0,34842.0
+2024-12-01,Masculine,Underwear and Pajamas,Seasonal Baseline,19070.0,16935.0
+2024-12-01,Children,Accessories,Random Forest,12743.0,14037.013333333334
+2024-12-01,Children,Baby (0-12 months),Random Forest,12601.0,13415.533333333333
+2024-12-01,Children,Coats,Random Forest,12632.0,13490.1
+2024-12-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,12684.0,13490.1
+2024-12-01,Children,Pajamas,Random Forest,12742.0,13444.8
+2024-12-01,Children,Sweaters,Random Forest,12647.0,14051.36
+2024-12-01,Feminine,Accessories,Random Forest,18806.0,20940.48
+2024-12-01,Feminine,Coats and Blazers,Random Forest,38267.0,29533.626666666667
+2024-12-01,Feminine,Dresses and Jumpsuits,Random Forest,38018.0,28759.68
+2024-12-01,Feminine,Lingerie and Pajamas,Random Forest,18830.0,21009.906666666666
+2024-12-01,Feminine,Pants and Jeans,Random Forest,37968.0,29626.173333333332
+2024-12-01,Feminine,Shirts and Blouses,Random Forest,38263.0,28725.6
+2024-12-01,Feminine,Skirts and Shorts,Random Forest,37942.0,28765.52
+2024-12-01,Feminine,Sportswear,Random Forest,38200.0,29533.626666666667
+2024-12-01,Feminine,Suits and Sets,Random Forest,38398.0,29533.626666666667
+2024-12-01,Feminine,Sweaters and Knitwear,Random Forest,37886.0,29534.273333333334
+2024-12-01,Feminine,T-shirts and Tops,Random Forest,38083.0,29533.626666666667
+2024-12-01,Masculine,Accessories,Random Forest,18923.0,20759.906666666666
+2024-12-01,Masculine,Coats and Blazers,Random Forest,38020.0,29579.72
+2024-12-01,Masculine,Pants and Jeans,Random Forest,38550.0,29015.31333333333
+2024-12-01,Masculine,Shirts,Random Forest,37857.0,28888.773333333334
+2024-12-01,Masculine,Sportswear,Random Forest,38129.0,29579.12
+2024-12-01,Masculine,Suits and Blazers,Random Forest,38265.0,29579.72
+2024-12-01,Masculine,Sweaters and Sweatshirts,Random Forest,37828.0,29580.32
+2024-12-01,Masculine,T-shirts and Polos,Random Forest,38276.0,29593.32
+2024-12-01,Masculine,Underwear and Pajamas,Random Forest,19070.0,20292.333333333332
+2025-01-01,Children,Accessories,Previous Month,2497.0,12743.0
+2025-01-01,Children,Baby (0-12 months),Previous Month,2434.0,12601.0
+2025-01-01,Children,Coats,Previous Month,7916.0,12632.0
+2025-01-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,2526.0,12684.0
+2025-01-01,Children,Pajamas,Previous Month,2404.0,12742.0
+2025-01-01,Children,Sweaters,Previous Month,8016.0,12647.0
+2025-01-01,Feminine,Accessories,Previous Month,3776.0,18806.0
+2025-01-01,Feminine,Coats and Blazers,Previous Month,13133.0,38267.0
+2025-01-01,Feminine,Dresses and Jumpsuits,Previous Month,7547.0,38018.0
+2025-01-01,Feminine,Lingerie and Pajamas,Previous Month,3984.0,18830.0
+2025-01-01,Feminine,Pants and Jeans,Previous Month,7366.0,37968.0
+2025-01-01,Feminine,Shirts and Blouses,Previous Month,7542.0,38263.0
+2025-01-01,Feminine,Skirts and Shorts,Previous Month,7522.0,37942.0
+2025-01-01,Feminine,Sportswear,Previous Month,7292.0,38200.0
+2025-01-01,Feminine,Suits and Sets,Previous Month,7432.0,38398.0
+2025-01-01,Feminine,Sweaters and Knitwear,Previous Month,12598.0,37886.0
+2025-01-01,Feminine,T-shirts and Tops,Previous Month,7553.0,38083.0
+2025-01-01,Masculine,Accessories,Previous Month,3839.0,18923.0
+2025-01-01,Masculine,Coats and Blazers,Previous Month,13132.0,38020.0
+2025-01-01,Masculine,Pants and Jeans,Previous Month,7743.0,38550.0
+2025-01-01,Masculine,Shirts,Previous Month,7525.0,37857.0
+2025-01-01,Masculine,Sportswear,Previous Month,7699.0,38129.0
+2025-01-01,Masculine,Suits and Blazers,Previous Month,7705.0,38265.0
+2025-01-01,Masculine,Sweaters and Sweatshirts,Previous Month,13224.0,37828.0
+2025-01-01,Masculine,T-shirts and Polos,Previous Month,7857.0,38276.0
+2025-01-01,Masculine,Underwear and Pajamas,Previous Month,3675.0,19070.0
+2025-01-01,Children,Accessories,Seasonal Baseline,2497.0,2534.0
+2025-01-01,Children,Baby (0-12 months),Seasonal Baseline,2434.0,2518.0
+2025-01-01,Children,Coats,Seasonal Baseline,7916.0,7944.0
+2025-01-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,2526.0,2563.0
+2025-01-01,Children,Pajamas,Seasonal Baseline,2404.0,2596.0
+2025-01-01,Children,Sweaters,Seasonal Baseline,8016.0,7908.0
+2025-01-01,Feminine,Accessories,Seasonal Baseline,3776.0,3847.0
+2025-01-01,Feminine,Coats and Blazers,Seasonal Baseline,13133.0,12912.0
+2025-01-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,7547.0,7452.0
+2025-01-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,3984.0,3788.0
+2025-01-01,Feminine,Pants and Jeans,Seasonal Baseline,7366.0,7663.0
+2025-01-01,Feminine,Shirts and Blouses,Seasonal Baseline,7542.0,7571.0
+2025-01-01,Feminine,Skirts and Shorts,Seasonal Baseline,7522.0,7738.0
+2025-01-01,Feminine,Sportswear,Seasonal Baseline,7292.0,7392.0
+2025-01-01,Feminine,Suits and Sets,Seasonal Baseline,7432.0,7591.0
+2025-01-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,12598.0,12864.0
+2025-01-01,Feminine,T-shirts and Tops,Seasonal Baseline,7553.0,7564.0
+2025-01-01,Masculine,Accessories,Seasonal Baseline,3839.0,3927.0
+2025-01-01,Masculine,Coats and Blazers,Seasonal Baseline,13132.0,13442.0
+2025-01-01,Masculine,Pants and Jeans,Seasonal Baseline,7743.0,7838.0
+2025-01-01,Masculine,Shirts,Seasonal Baseline,7525.0,7746.0
+2025-01-01,Masculine,Sportswear,Seasonal Baseline,7699.0,7931.0
+2025-01-01,Masculine,Suits and Blazers,Seasonal Baseline,7705.0,7886.0
+2025-01-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,13224.0,13379.0
+2025-01-01,Masculine,T-shirts and Polos,Seasonal Baseline,7857.0,7771.0
+2025-01-01,Masculine,Underwear and Pajamas,Seasonal Baseline,3675.0,3796.0
+2025-01-01,Children,Accessories,Random Forest,2497.0,2572.9133333333334
+2025-01-01,Children,Baby (0-12 months),Random Forest,2434.0,2572.8933333333334
+2025-01-01,Children,Coats,Random Forest,7916.0,7915.66
+2025-01-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,2526.0,2572.0666666666666
+2025-01-01,Children,Pajamas,Random Forest,2404.0,2575.6
+2025-01-01,Children,Sweaters,Random Forest,8016.0,7821.2733333333335
+2025-01-01,Feminine,Accessories,Random Forest,3776.0,3955.82
+2025-01-01,Feminine,Coats and Blazers,Random Forest,13133.0,13467.033333333333
+2025-01-01,Feminine,Dresses and Jumpsuits,Random Forest,7547.0,7530.48
+2025-01-01,Feminine,Lingerie and Pajamas,Random Forest,3984.0,3957.86
+2025-01-01,Feminine,Pants and Jeans,Random Forest,7366.0,7544.48
+2025-01-01,Feminine,Shirts and Blouses,Random Forest,7542.0,7531.1866666666665
+2025-01-01,Feminine,Skirts and Shorts,Random Forest,7522.0,7573.826666666667
+2025-01-01,Feminine,Sportswear,Random Forest,7292.0,7513.486666666667
+2025-01-01,Feminine,Suits and Sets,Random Forest,7432.0,7532.966666666666
+2025-01-01,Feminine,Sweaters and Knitwear,Random Forest,12598.0,13428.886666666667
+2025-01-01,Feminine,T-shirts and Tops,Random Forest,7553.0,7532.8533333333335
+2025-01-01,Masculine,Accessories,Random Forest,3839.0,4572.42
+2025-01-01,Masculine,Coats and Blazers,Random Forest,13132.0,13633.086666666666
+2025-01-01,Masculine,Pants and Jeans,Random Forest,7743.0,7834.5
+2025-01-01,Masculine,Shirts,Random Forest,7525.0,7805.22
+2025-01-01,Masculine,Sportswear,Random Forest,7699.0,7833.786666666667
+2025-01-01,Masculine,Suits and Blazers,Random Forest,7705.0,7820.873333333333
+2025-01-01,Masculine,Sweaters and Sweatshirts,Random Forest,13224.0,13624.946666666667
+2025-01-01,Masculine,T-shirts and Polos,Random Forest,7857.0,7822.526666666667
+2025-01-01,Masculine,Underwear and Pajamas,Random Forest,3675.0,3939.48
+2025-02-01,Children,Accessories,Previous Month,2407.0,2497.0
+2025-02-01,Children,Baby (0-12 months),Previous Month,2300.0,2434.0
+2025-02-01,Children,Coats,Previous Month,2390.0,7916.0
+2025-02-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Previous Month,2338.0,2526.0
+2025-02-01,Children,Pajamas,Previous Month,2446.0,2404.0
+2025-02-01,Children,Sweaters,Previous Month,2375.0,8016.0
+2025-02-01,Feminine,Accessories,Previous Month,3590.0,3776.0
+2025-02-01,Feminine,Coats and Blazers,Previous Month,7018.0,13133.0
+2025-02-01,Feminine,Dresses and Jumpsuits,Previous Month,7037.0,7547.0
+2025-02-01,Feminine,Lingerie and Pajamas,Previous Month,3540.0,3984.0
+2025-02-01,Feminine,Pants and Jeans,Previous Month,6913.0,7366.0
+2025-02-01,Feminine,Shirts and Blouses,Previous Month,7072.0,7542.0
+2025-02-01,Feminine,Skirts and Shorts,Previous Month,7126.0,7522.0
+2025-02-01,Feminine,Sportswear,Previous Month,7074.0,7292.0
+2025-02-01,Feminine,Suits and Sets,Previous Month,7201.0,7432.0
+2025-02-01,Feminine,Sweaters and Knitwear,Previous Month,6932.0,12598.0
+2025-02-01,Feminine,T-shirts and Tops,Previous Month,7014.0,7553.0
+2025-02-01,Masculine,Accessories,Previous Month,3545.0,3839.0
+2025-02-01,Masculine,Coats and Blazers,Previous Month,7321.0,13132.0
+2025-02-01,Masculine,Pants and Jeans,Previous Month,7427.0,7743.0
+2025-02-01,Masculine,Shirts,Previous Month,7403.0,7525.0
+2025-02-01,Masculine,Sportswear,Previous Month,7371.0,7699.0
+2025-02-01,Masculine,Suits and Blazers,Previous Month,7267.0,7705.0
+2025-02-01,Masculine,Sweaters and Sweatshirts,Previous Month,7454.0,13224.0
+2025-02-01,Masculine,T-shirts and Polos,Previous Month,7179.0,7857.0
+2025-02-01,Masculine,Underwear and Pajamas,Previous Month,3594.0,3675.0
+2025-02-01,Children,Accessories,Seasonal Baseline,2407.0,2476.0
+2025-02-01,Children,Baby (0-12 months),Seasonal Baseline,2300.0,2491.0
+2025-02-01,Children,Coats,Seasonal Baseline,2390.0,2521.0
+2025-02-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Seasonal Baseline,2338.0,2480.0
+2025-02-01,Children,Pajamas,Seasonal Baseline,2446.0,2491.0
+2025-02-01,Children,Sweaters,Seasonal Baseline,2375.0,2484.0
+2025-02-01,Feminine,Accessories,Seasonal Baseline,3590.0,3757.0
+2025-02-01,Feminine,Coats and Blazers,Seasonal Baseline,7018.0,7371.0
+2025-02-01,Feminine,Dresses and Jumpsuits,Seasonal Baseline,7037.0,7295.0
+2025-02-01,Feminine,Lingerie and Pajamas,Seasonal Baseline,3540.0,3816.0
+2025-02-01,Feminine,Pants and Jeans,Seasonal Baseline,6913.0,7536.0
+2025-02-01,Feminine,Shirts and Blouses,Seasonal Baseline,7072.0,7381.0
+2025-02-01,Feminine,Skirts and Shorts,Seasonal Baseline,7126.0,7418.0
+2025-02-01,Feminine,Sportswear,Seasonal Baseline,7074.0,7304.0
+2025-02-01,Feminine,Suits and Sets,Seasonal Baseline,7201.0,7442.0
+2025-02-01,Feminine,Sweaters and Knitwear,Seasonal Baseline,6932.0,7217.0
+2025-02-01,Feminine,T-shirts and Tops,Seasonal Baseline,7014.0,7387.0
+2025-02-01,Masculine,Accessories,Seasonal Baseline,3545.0,3807.0
+2025-02-01,Masculine,Coats and Blazers,Seasonal Baseline,7321.0,7696.0
+2025-02-01,Masculine,Pants and Jeans,Seasonal Baseline,7427.0,7925.0
+2025-02-01,Masculine,Shirts,Seasonal Baseline,7403.0,7718.0
+2025-02-01,Masculine,Sportswear,Seasonal Baseline,7371.0,7885.0
+2025-02-01,Masculine,Suits and Blazers,Seasonal Baseline,7267.0,7730.0
+2025-02-01,Masculine,Sweaters and Sweatshirts,Seasonal Baseline,7454.0,7706.0
+2025-02-01,Masculine,T-shirts and Polos,Seasonal Baseline,7179.0,7688.0
+2025-02-01,Masculine,Underwear and Pajamas,Seasonal Baseline,3594.0,3670.0
+2025-02-01,Children,Accessories,Random Forest,2407.0,2487.1
+2025-02-01,Children,Baby (0-12 months),Random Forest,2300.0,2483.9866666666667
+2025-02-01,Children,Coats,Random Forest,2390.0,2491.8333333333335
+2025-02-01,Children,"Girl and Boy (1-5 years, 6-14 years)",Random Forest,2338.0,2489.6066666666666
+2025-02-01,Children,Pajamas,Random Forest,2446.0,2489.7
+2025-02-01,Children,Sweaters,Random Forest,2375.0,2494.2
+2025-02-01,Feminine,Accessories,Random Forest,3590.0,3828.9266666666667
+2025-02-01,Feminine,Coats and Blazers,Random Forest,7018.0,7448.266666666666
+2025-02-01,Feminine,Dresses and Jumpsuits,Random Forest,7037.0,7419.013333333333
+2025-02-01,Feminine,Lingerie and Pajamas,Random Forest,3540.0,3832.3866666666668
+2025-02-01,Feminine,Pants and Jeans,Random Forest,6913.0,7452.66
+2025-02-01,Feminine,Shirts and Blouses,Random Forest,7072.0,7425.113333333334
+2025-02-01,Feminine,Skirts and Shorts,Random Forest,7126.0,7449.293333333333
+2025-02-01,Feminine,Sportswear,Random Forest,7074.0,7379.98
+2025-02-01,Feminine,Suits and Sets,Random Forest,7201.0,7434.266666666666
+2025-02-01,Feminine,Sweaters and Knitwear,Random Forest,6932.0,7392.86
+2025-02-01,Feminine,T-shirts and Tops,Random Forest,7014.0,7430.446666666667
+2025-02-01,Masculine,Accessories,Random Forest,3545.0,3836.713333333333
+2025-02-01,Masculine,Coats and Blazers,Random Forest,7321.0,7755.253333333333
+2025-02-01,Masculine,Pants and Jeans,Random Forest,7427.0,7801.1
+2025-02-01,Masculine,Shirts,Random Forest,7403.0,7749.413333333333
+2025-02-01,Masculine,Sportswear,Random Forest,7371.0,7790.126666666667
+2025-02-01,Masculine,Suits and Blazers,Random Forest,7267.0,7784.766666666666
+2025-02-01,Masculine,Sweaters and Sweatshirts,Random Forest,7454.0,7756.426666666666
+2025-02-01,Masculine,T-shirts and Polos,Random Forest,7179.0,7801.013333333333
+2025-02-01,Masculine,Underwear and Pajamas,Random Forest,3594.0,3803.653333333333
